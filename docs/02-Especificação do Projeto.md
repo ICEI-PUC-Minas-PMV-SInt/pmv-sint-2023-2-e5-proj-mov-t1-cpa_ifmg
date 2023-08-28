@@ -22,6 +22,10 @@ Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos 
 >
 Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
+Lúcia tem 35 anos, solteira, é formada em Administração de Empresas e possui mestrado em Educação. Atualmente ela é Assistente Admnistrativo e trabalha no IFMG, ocupando o cargo de Presidência da Comissão Própria de Avaliação (CPA) Central. Seu desafio na Comissão é melhorar os processos de preenchimento dos dados para a Avaliação Institucional.
+
+Jorge tem 50 anos, é Técnico em Assuntos Educacionais e trabalha no campus Ipatinga, atuando como membro da CPA local. Jorge encontra dificulades em enviar os dados da Avaliação Institucional do seu campus para a Comissão Central e gostaria que o compartilhamento desse dados fosse de forma menos burocrática.
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
