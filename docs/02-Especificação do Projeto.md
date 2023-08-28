@@ -22,9 +22,9 @@ Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos 
 >
 Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
-Lúcia tem 35 anos, solteira, é formada em Administração de Empresas e possui mestrado em Educação. Atualmente ela é Assistente Admnistrativo e trabalha no IFMG, ocupando o cargo de Presidência da Comissão Própria de Avaliação (CPA) Central. Seu desafio na Comissão é melhorar os processos de preenchimento dos dados para a Avaliação Institucional.
+Lúcia tem 35 anos, solteira, é formada em Administração de Empresas e possui mestrado em Educação. Atualmente ela é Assistente Admnistrativo e trabalha no IFMG, ocupando o cargo de Presidência da Comissão Própria de Avaliação (CPA) Central. Seus maiores desafios na Comissão é obter os dados das Comissões locais tais como o nome dos membros, as propostas de melhoria, dentre outros. Além disso, Lúcia gostaria de otimizar as entregas dos dados pelas comissões locais e manter o portal da autoavaliação institucional sempre atualizado.
 
-Jorge tem 50 anos, casado, é Técnico em Assuntos Educacionais e trabalha no campus Ipatinga, atuando como membro da CPA local. Jorge encontra dificulades em enviar os dados da Avaliação Institucional do seu campus para a Comissão Central e gostaria que o compartilhamento desses dados fosse de forma menos burocrática.
+Jorge tem 50 anos, casado, é Técnico em Assuntos Educacionais e trabalha no campus Ipatinga, atuando na Secretaria Escolar. Atualemnte ele foi indicado como membro da CPA local. Jorge encontra dificulades em enviar as informações sobre a Avaliação Institucional do seu campus dentro do cronograma estabelecido pela Comissão Central, pois considera ficou difícil conciliar esse trabalho com as demandas do seu setor. Além disso, ele encontra dificuldades em atingir as metas de respostas do questionário de avaliação dentro do prazo estabelecido pela Comissão.  
 
 Pedro tem 17 anos, e é aluno do 3º ano do curso Técnico em Nutrição do IFMG. Ele utiliza seu smartphone para resolver a maioria dos trabalhos escolares, acessar agenda e o site acadêmico. Pedro não possui interesse em responder questionários enviados pela escola e que não pontuam na sua avaliação, pois acha que são difíceis de responder pela tela do celular.
 
