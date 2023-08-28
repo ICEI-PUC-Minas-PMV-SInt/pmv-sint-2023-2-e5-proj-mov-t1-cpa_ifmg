@@ -24,7 +24,9 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Lúcia tem 35 anos, solteira, é formada em Administração de Empresas e possui mestrado em Educação. Atualmente ela é Assistente Admnistrativo e trabalha no IFMG, ocupando o cargo de Presidência da Comissão Própria de Avaliação (CPA) Central. Seu desafio na Comissão é melhorar os processos de preenchimento dos dados para a Avaliação Institucional.
 
-Jorge tem 50 anos, é Técnico em Assuntos Educacionais e trabalha no campus Ipatinga, atuando como membro da CPA local. Jorge encontra dificulades em enviar os dados da Avaliação Institucional do seu campus para a Comissão Central e gostaria que o compartilhamento desse dados fosse de forma menos burocrática.
+Jorge tem 50 anos, casado, é Técnico em Assuntos Educacionais e trabalha no campus Ipatinga, atuando como membro da CPA local. Jorge encontra dificulades em enviar os dados da Avaliação Institucional do seu campus para a Comissão Central e gostaria que o compartilhamento desses dados fosse de forma menos burocrática.
+
+Pedro tem 17 anos, e é aluno do 3º ano do curso Técnico em Nutrição do IFMG. Ele utiliza seu smartphone para resolver a maioria dos trabalhos escolares, acessar agenda e o site acadêmico. Pedro não possui interesse em responder questionários enviados pela escola e que não pontuam na sua avaliação, pois acha que são difíceis de responder pela tela do celular.
 
 ## Histórias de Usuários
 
