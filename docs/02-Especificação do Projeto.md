@@ -22,9 +22,9 @@ Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos 
 >
 Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
-Lúcia tem 35 anos, solteira, é formada em Administração de Empresas e possui mestrado em Educação. Atualmente ela é Assistente Admnistrativo e trabalha no IFMG, ocupando o cargo de Presidência da Comissão Própria de Avaliação (CPA) Central. Seus maiores desafios na Comissão é obter os dados das Comissões locais tais como o nome dos membros, as propostas de melhoria, dentre outros. Além disso, Lúcia gostaria de otimizar as entregas dos dados pelas comissões locais e manter o portal da autoavaliação institucional sempre atualizado.
+Lúcia tem 35 anos, solteira, é formada em Administração de Empresas e possui mestrado em Educação. Atualmente ela é Assistente Admnistrativo e trabalha no IFMG, ocupando o cargo de Presidência da Comissão Própria de Avaliação (CPA) Central. Seu maior desafio na Comissão é obter os dados das Comissões locais para a organização da Avaliação Institucional. Além disso, Lúcia gostaria de otimizar as entregas dos dados pelas comissões locais e manter o portal da autoavaliação institucional sempre atualizado.
 
-Jorge tem 50 anos, casado, é Técnico em Assuntos Educacionais e trabalha no campus Ipatinga, atuando na Secretaria Escolar. Atualemnte ele foi indicado como membro da CPA local. Jorge encontra dificulades em enviar as informações sobre a Avaliação Institucional do seu campus dentro do cronograma estabelecido pela Comissão Central, pois considera ficou difícil conciliar esse trabalho com as demandas do seu setor. Além disso, ele encontra dificuldades em atingir as metas de respostas do questionário de avaliação dentro do prazo estabelecido pela Comissão.  
+Jorge tem 50 anos, casado, é Técnico em Assuntos Educacionais e trabalha no campus Ipatinga, atuando na Secretaria Escolar. Atualmente ele foi indicado como membro da CPA local. Jorge encontra dificulades em enviar as informações sobre a Avaliação Institucional do seu campus dentro do cronograma estabelecido pela Comissão Central, pois ficou difícil conciliar esse trabalho com as demandas do seu setor. Além disso, ele encontra dificuldades em atingir as metas de respostas do questionário de avaliação dentro do prazo estabelecido pela Comissão.  
 
 Pedro tem 17 anos, e é aluno do 3º ano do curso Técnico em Nutrição do IFMG. Ele utiliza seu smartphone para resolver a maioria dos trabalhos escolares, acessar agenda e o site acadêmico. Pedro não possui interesse em responder questionários enviados pela escola e que não pontuam na sua avaliação, pois acha que são difíceis de responder pela tela do celular.
 
@@ -34,8 +34,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Presidente da Comissão Central  | Receber os dados da Comissão Local| Elaborar a Avaliação Institucional|
+|Membro da Comissão| Enviar os dados para a Comissão Central| XXXXX |
+|Discente| XXXXX | XXXXX |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
