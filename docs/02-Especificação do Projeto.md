@@ -22,6 +22,10 @@ Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos 
 >
 Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
+|Foto|Nome|Descrição|Aplicativos|Motivações|Frustrações|Hobbies, História|
+|----|----|---------|-----------|----------|-----------|-----------------|
+|    |Lúcia|<ul><li>Solteira</li><li>Assistente Administrativo</li><li>Aualmente participa da CPA como Presidente da Comissão</li></ul>|
+
 Lúcia tem 35 anos, solteira, é formada em Administração de Empresas e possui mestrado em Educação. Atualmente ela é Assistente Admnistrativo e trabalha no IFMG, ocupando o cargo de Presidência da Comissão Própria de Avaliação (CPA) Central. Seu maior desafio na Comissão é obter os dados das Comissões locais para a organização da Avaliação Institucional. Além disso, Lúcia gostaria de otimizar as entregas dos dados pelas comissões locais e manter o portal da autoavaliação institucional sempre atualizado.
 
 Jorge tem 50 anos, casado, é Técnico em Assuntos Educacionais e trabalha no campus Ipatinga, atuando na Secretaria Escolar. Atualmente ele foi indicado como membro da CPA local. Jorge encontra dificulades em enviar as informações sobre a Avaliação Institucional do seu campus dentro do cronograma estabelecido pela Comissão Central, pois ficou difícil conciliar esse trabalho com as demandas do seu setor. Além disso, ele encontra dificuldades em atingir as metas de respostas do questionário de avaliação dentro do prazo estabelecido pela Comissão.  
