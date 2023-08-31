@@ -40,12 +40,14 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Lúcia|Receber os dados da Comissão Local.|Elaborar as perguntas do questionário de autoavaliação.|
-|Lúcia|Identificar o perfil de respondente.|Elaborar o questionário adequado ao perfil.|
+|Lúcia|Receber dados da Comissão Local.|Elaborar as perguntas do questionário de autoavaliação.|
 |Lúcia|Cadastrar as perguntas.|Elaborar o questionário de autoavaliação.|
+|Lúcia|Identificar o perfil de respondente.|Elaborar o questionário adequado ao perfil.|
+|Lúcia|Disponibilizar o questionário de autoavaliação.|Permitir que os respondentes tem acesso ao questionário.|
+|Lúcia|Receber os resultados da avaliação institucional do _campus_.|Redigir os relatórios de avaliação institucional do IFMG.|
 |Jorge|Receber os dados do questionário de avaliação.| Elaborar o relatório de autoavaliação institucional do _campus._|
-|Jorge|Cadastrar as metas e ações para a avaliação institucional.| Monitorar a execução da avaliação.|
-|Jorge|Transferir os resultados do questionário de autoavaliação para uma planilha.|Envias os dados para a Comissão Central.|
+|Jorge|Cadastrar as metas e ações para a avaliação institucional.| Monitorar a avaliação.|
+|Jorge|Transferir os resultados do questionário de autoavaliação para uma planilha.|Enviar os dados para a Comissão Central.|
 |Jorge|Enviar os dados da avaliação institucional do _campus_ para a Comissão Central.|Elaborar o relatório geral de autoavaliação.|
 |Pedro/Júlia/Maria|Receber notificações.|Lembrar de responder ao questionário.|
 |Pedro/Júlia/Maria| Acessar o questionário de autoavaliação.| Responder ao questionário.|
