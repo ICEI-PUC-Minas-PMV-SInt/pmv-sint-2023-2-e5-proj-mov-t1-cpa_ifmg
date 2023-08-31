@@ -40,12 +40,16 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Lúcia| Receber os dados da Comissão Local.|Elaborar o questionário de autoavaliação institucional.|
-|Lúcia|Identificar o perfil de respondente.|Enviar o questionário adequado ao ao perfil.|
-|Jorge| Receber os dados do questionário de avaliação.| Elaborar o relatório de autoavaliação institucional do _campus._|
-|Jorge| Enviar os dados para a Comissão Central.| Elaborar o questionário de autoavaliação.|
+|Lúcia|Receber os dados da Comissão Local.|Elaborar as perguntas do questionário de autoavaliação.|
+|Lúcia|Identificar o perfil de respondente.|Elaborar o questionário adequado ao perfil.|
+|Lúcia|Cadastrar as perguntas.|Elaborar o questionário de autoavaliação.|
+|Jorge|Receber os dados do questionário de avaliação.| Elaborar o relatório de autoavaliação institucional do _campus._|
+|Jorge|Cadastrar as metas e ações para a avaliação institucional.| Monitorar a execução da avaliação.|
+|Jorge|Transferir os resultados do questionário de autoavaliação para uma planilha.|Envias os dados para a Comissão Central.|
+|Jorge|Enviar os dados da avaliação institucional do _campus_ para a Comissão Central.|Elaborar o relatório geral de autoavaliação.|
+|Pedro/Júlia/Maria|Receber notificações.|Lembrar de responder ao questionário.|
 |Pedro/Júlia/Maria| Acessar o questionário de autoavaliação.| Responder ao questionário.|
-|Pedro/Júlia/Maria| Acessar meu perfil de respondente.| Responder ao questionário adequado.|
+|Pedro/Júlia/Maria| Acessar o perfil de respondente.| Responder ao questionário adequado.|
 
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
