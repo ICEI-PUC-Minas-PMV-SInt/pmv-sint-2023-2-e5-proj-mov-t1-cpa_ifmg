@@ -52,12 +52,12 @@ Em razão dos problemas apresentados, o projeto tem como objetivo geral a constr
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Nesse contexto, o presente projeto se justifica, uma vez que a implantação  de mecanismos que permitam uma melhor eficiência na sensibilização de participantes, na coleta e na transmissão de dados aprimora o processo avaliativo, tornando-o ponto de referência para a construção de políticas educacionais. Um sistema robusto de autoavaliação é requisito essencial para elaboração de um planejamento estratégico em consonância com as necessidades dos atores envolvidos.  
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+A melhoria da segurança e da qualidade das avaliações internas aumenta a confiabilidade dos gestores nos diagnósticos realizados e estes, ao se apropriarem das informações geradas, tornam suas ações mais assertivas e alinhadas à visão coletiva. 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Por outro lado, o público alvo ao se sentir escutado em seus anseios, tende a participar cada vez mais dos processos avaliativos, criando um ambiente de gestão participativa. 
+
 
 ## Público-Alvo
 
