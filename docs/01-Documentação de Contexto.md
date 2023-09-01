@@ -36,12 +36,13 @@ Em seus relatórios publicados, a CPA identifica limitações no processo de ava
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Em razão dos problemas apresentados, o projeto tem como objetivo geral a construção de um sistema de gerenciamento da avaliação institucional interna do IFMG. Para alcance desse objetivo geral, foram traçados os seguintes objetivos específicos:
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+- Especificar eixos e dimensões temáticas, bem como prazos e períodos de avaliação;
+- Criar funcionalidade que possibilite a participação do público alvo da avaliação institucional;
+- Criar funcionalidade que permita a coleta dados como nome dos membros, propostas de melhoria, metas a realizar e realizadas das CPA’s locais;
+- Criar portal com informações organizadas e boa usabilidade que possa ser permanentemente atualizado com informações relativas à CPA.  
+
 
 ## Justificativa
 
