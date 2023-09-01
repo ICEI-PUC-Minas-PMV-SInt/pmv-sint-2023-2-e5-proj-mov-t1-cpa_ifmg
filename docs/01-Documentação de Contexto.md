@@ -16,16 +16,23 @@ Diante do exposto, este projeto tem por finalidade a criação de um sistema que
 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+O IFMG é uma instituição de educação básica e superior e, atualmente, possui uma Reitoria, um Pólo de Inovação e 18 campi com atuação em diferentes cidades do estado de Minas Gerais. Por se enquadrar como IES, a instituição precisa realizar anualmente a avaliação institucional interna por meio da CPA nos prazos estabelecidos pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP). 
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Entretanto, a condução do processo avaliativo pela CPA apresenta dificuldades que vão desde início do processo avaliativo, com a sensibilização público alvo para participação, até a construção dos relatórios de avaliação institucional para envio ao INEP.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Em seus relatórios publicados, a CPA identifica limitações no processo de avaliação dos quais destaca-se os seguintes aspectos: 
+
+- Baixa participação:  A baixa participação do público alvo nas respostas aos questionários é fator preocupante para a qualidade da avaliação, pois impacta negativamente na representatividade da amostra. 
+
+- Plataforma de coleta de dados: A plataforma utilizada não necessita de login para que os questionários sejam respondidos. Isso permite que um usuário possa fazer a avaliação mais de uma vez, sendo, portanto, uma fragilidade que pode trazer vícios aos resultados da pesquisa. Além disso, a plataforma é pouco atrativa para os usuários. 
+
+- Rotatividade de membros nas comissões: A renovação constante de comissões dificulta a comunicação entre os membros das comissões, pois a lista de membros fica desatualizada constantemente. Além disso, os novos membros possuem pouco conhecimento sobre o processo avaliativo.
+
+- Consolidação de informações: A construção do relatório geral é realizada no programa Looker Studio que precisa de informações geradas em planilhas eletrônicas elaboradas pelas 18 CPA’s Locais e reunidas em uma nova planilha pela CPA Central. Esse processo pode gerar erros no momento da consolidação de informações geradas em diferentes planilhas. Além disso, esse processo é demorado e dificulta a entrega de relatórios dentro do prazo. 
+
+- Publicação de informações: O site institucional necessita de melhorias quanto à organização e apresentação de informações para a comunidade interna e externa como, por exemplo, a disponibilização de informações atualizadas e visualmente atrativas para o público. 
+
 
 ## Objetivos
 
