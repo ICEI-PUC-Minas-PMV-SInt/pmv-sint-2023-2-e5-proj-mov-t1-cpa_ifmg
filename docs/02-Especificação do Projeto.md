@@ -1,14 +1,15 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
 ## Personas
+|Foto|Nome|Descrição|Aplicativos|Motivações|Frustrações|Hobbies, História|
+|----|----|---------|-----------|----------|-----------|-----------------|
+|![pessoa 1](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/5e2e678b-5b21-4011-a650-bd24e21872c8)|Lúcia|<ul><li>35 anos</li><li>Solteira</li><li>Assistente Administrativo</li><li>Aualmente participa da CPA como Presidente da Comissão</li></ul>|<ul><li>Instagram</li><li>Twitter</li></ul>|<ul><li>Paulo Freire</li><li>Marisa Monte</li><li>Idaberto Chiavenato</li></ul>|<ul><li>Não consegue receber os dados de todas as Comissões Locais no cronograma estipulado.</li><li>Gasta muito tempo para compilar esses dados.</li><li>Sente sobrecarregada ao tentar conciliar as tarefas do setor com as demandas da Comissão.<li>Não consegue manter o site da CPA atualizado.</li></ul>|<ul><li>Gosta de viajar.</li><li>Museus, bares e restaurantes.</li><li>Gosta de adquirir novas tecnologias.</li><li>Atualmente esta tentando uma licença para cursar o Doutorado</li></ul>|
+|![images](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/a0319186-ad6d-4055-a8fe-3d622a6b5205)|Jorge|<ul><li>50 anos</li><li>Casado</li><li>1 filho e 1 neto</li><li>Técnico em Assuntos Educacionais</li><li>Atualmente foi indicado como membro da CPA local</li></ul>|<ul><li>Instagram</li><li>Twitter</li><li>Teams</li></ul>|<ul><li>Focault</li><li>Paulo Freire</li><li>Vygotsky</li></ul>|<ul><li>Encontra dificulades em enviar as informações sobre a Avaliação Institucional do seu campus dentro do cronograma estabelecido pela Comissão Central</li><li>Não entende quais são as suas atribuições na Comissão.</li><li>Sente sobrecarregado com os trabalhos do setor e da CPA<li>Encontra dificuldades em atingir as metas de respostas do questionário de avaliação dentro do prazo estabelecido.</li></ul>|<ul><li>Gosta de viajar.</li><li>Filmes, séries e livros.</li><li>Esta estudando para outros concursos públicos.</li></ul>|
+| ![download](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/8295d98e-7798-4e7e-9208-b407b5ce2dcb)|Pedro|<ul><li>17 anos.</li><li>Aluno do 3º ano do curso Técnico em Nutrição.</li></ul>|<ul><li>Instagram</li><li>Tik Tok</li><li>Google Docs</li></ul>|<ul><li>Emicida</li><li>Naruto</li><li>Star Wars</li></ul>|<ul><li>Pedro não possui interesse em responder questionários enviados pela escola e que não pontuam na sua avaliação, pois acha que são difíceis de responder pela tela do celular.</li></ul>|<ul><li>Sair com os amigos</li><li>Jogar Videogames</li><li>BoardGames</li><li>Ele utiliza seu smartphone para resolver a maioria dos trabalhos escolares e ganhou um Tablet para auxiliar nos seus estudos</li></ul>|
+|![download (1)](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/055cf833-8bd3-44a9-8891-fecbb52cfcc4)|Júlia|<ul><li>30 anos</li><li>Casada</li><li>Engenheira Mecânica formada no IFMG</li></ul>|<ul><li>Twitter</li><li>Instagram</li><li>Facebook</li><li>Tik Tok</li></ul>|<ul><li>Elon Musk</li><li>Google</li><li>Carol Dweck</li></ul>|<ul><li>Esta à procura de nova oportunidade de trabalho.</li><li>Sente que a Instituição de Ensino lhe deu pouco auxílio para o primeiro emprego.</li><li>Não sabia que podia participar de consultas sobre sua Instituição de Ensino</li></ul>|<ul><li>Bares e restaurantes</li><li>Viagens</li><li>Cinema</li><li>Atualmente presta consultorias como _freelancer_.</li></ul>|
+|![download (2)](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/134f7229-22f7-487b-8b76-9552f472ab25)|Maria|<ul><li>40 anos</li><li>Casada</li><li>Professora EBTT</li></ul>|<ul><li>Twitter</li><li>Instagram</li><li>Trello</li><li>Tik Tok</li></ul>|<ul><li>Mário Sergio Cortela</li><li>Tesla</li><li>Google</li></ul>|<ul><li>Sente que tem muitas demandas no trabalho.</li><li>Acha que os sitemas do Instituto são lentos e pouco amigáveis.</li></ul>|<ul><li>Bares e restaurantes</li><li>Viagens</li><li>Leitura</li><li>Violão</li><li>Conseguiu uma bolsa de pós-doutorado em outro país.</li></ul>|
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
@@ -22,17 +23,6 @@ Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos 
 >
 Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
-|Foto|Nome|Descrição|Aplicativos|Motivações|Frustrações|Hobbies, História|
-|----|----|---------|-----------|----------|-----------|-----------------|
-|![pessoa 1](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/5e2e678b-5b21-4011-a650-bd24e21872c8)|Lúcia|<ul><li>35 anos</li><li>Solteira</li><li>Assistente Administrativo</li><li>Aualmente participa da CPA como Presidente da Comissão</li></ul>|<ul><li>Instagram</li><li>Twitter</li></ul>|<ul><li>Paulo Freire</li><li>Marisa Monte</li><li>Idaberto Chiavenato</li></ul>|<ul><li>Não consegue receber os dados de todas as Comissões Locais no cronograma estipulado.</li><li>Gasta muito tempo para compilar esses dados.</li><li>Sente sobrecarregada ao tentar conciliar as tarefas do setor com as demandas da Comissão.<li>Não consegue manter o site da CPA atualizado.</li></ul>|<ul><li>Gosta de viajar.</li><li>Museus, bares e restaurantes.</li><li>Gosta de adquirir novas tecnologias.</li><li>Atualmente esta tentando uma licença para cursar o Doutorado</li></ul>|
-|![images](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/a0319186-ad6d-4055-a8fe-3d622a6b5205)|Jorge|<ul><li>50 anos</li><li>Casado</li><li>1 filho e 1 neto</li><li>Técnico em Assuntos Educacionais</li><li>Atualmente foi indicado como membro da CPA local</li></ul>|<ul><li>Instagram</li><li>Twitter</li><li>Teams</li></ul>|<ul><li>Focault</li><li>Paulo Freire</li><li>Vygotsky</li></ul>|<ul><li>Encontra dificulades em enviar as informações sobre a Avaliação Institucional do seu campus dentro do cronograma estabelecido pela Comissão Central</li><li>Não entende quais são as suas atribuições na Comissão.</li><li>Sente sobrecarregado com os trabalhos do setor e da CPA<li>Encontra dificuldades em atingir as metas de respostas do questionário de avaliação dentro do prazo estabelecido.</li></ul>|<ul><li>Gosta de viajar.</li><li>Filmes, séries e livros.</li><li>Esta estudando para outros concursos públicos.</li></ul>|
-| ![download](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/8295d98e-7798-4e7e-9208-b407b5ce2dcb)|Pedro|<ul><li>17 anos.</li><li>Aluno do 3º ano do curso Técnico em Nutrição.</li></ul>|<ul><li>Instagram</li><li>Tik Tok</li><li>Google Docs</li></ul>|<ul><li>Emicida</li><li>Naruto</li><li>Star Wars</li></ul>|<ul><li>Pedro não possui interesse em responder questionários enviados pela escola e que não pontuam na sua avaliação, pois acha que são difíceis de responder pela tela do celular.</li></ul>|<ul><li>Sair com os amigos</li><li>Jogar Videogames</li><li>BoardGames</li><li>Ele utiliza seu smartphone para resolver a maioria dos trabalhos escolares e ganhou um Tablet para auxiliar nos seus estudos</li></ul>|
-|![download (1)](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/055cf833-8bd3-44a9-8891-fecbb52cfcc4)|Júlia|<ul><li>30 anos</li><li>Casada</li><li>Engenheira Mecânica formada no IFMG</li></ul>|<ul><li>Twitter</li><li>Instagram</li><li>Facebook</li><li>Tik Tok</li></ul>|<ul><li>Elon Musk</li><li>Google</li><li>Carol Dweck</li></ul>|<ul><li>Esta à procura de nova oportunidade de trabalho.</li><li>Sente que a Instituição de Ensino lhe deu pouco auxílio para o primeiro emprego.</li><li>Não sabia que podia participar de consultas sobre sua Instituição de Ensino</li></ul>|<ul><li>Bares e restaurantes</li><li>Viagens</li><li>Cinema</li><li>Atualmente presta consultorias como _freelancer_.</li></ul>|
-|![download (2)](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/134f7229-22f7-487b-8b76-9552f472ab25)|Maria|<ul><li>40 anos</li><li>Casada</li><li>Professora EBTT</li></ul>|<ul><li>Twitter</li><li>Instagram</li><li>Trello</li><li>Tik Tok</li></ul>|<ul><li>Mário Sergio Cortela</li><li>Tesla</li><li>Google</li></ul>|<ul><li>Sente que tem muitas demandas no trabalho.</li><li>Acha que os sitemas do Instituto são lentos e pouco amigáveis.</li></ul>|<ul><li>Bares e restaurantes</li><li>Viagens</li><li>Leitura</li><li>Violão</li><li>Conseguiu uma bolsa de pós-doutorado em outro país.</li></ul>|
-
-
-
-
 
 ## Histórias de Usuários
 
@@ -42,8 +32,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |Lúcia|Receber dados da Comissão Local.|Elaborar as perguntas do questionário de autoavaliação.|
 |Lúcia|Cadastrar as perguntas.|Elaborar o questionário de autoavaliação.|
-|Lúcia|Identificar o perfil de respondente.|Elaborar o questionário adequado ao perfil.|
-|Lúcia|Disponibilizar o questionário de autoavaliação.|Permitir que os respondentes tem acesso ao questionário.|
+|Lúcia|Identificar o perfil de respondente.|Disponibilizar o questionário adequado ao perfil.|
+|Lúcia|Disponibilizar o questionário de autoavaliação.|Permitir que os respondentes tenham acesso ao questionário.|
 |Lúcia|Receber os resultados da avaliação institucional do _campus_.|Redigir os relatórios de avaliação institucional do IFMG.|
 |Jorge|Receber os dados do questionário de avaliação.| Elaborar o relatório de autoavaliação institucional do _campus._|
 |Jorge|Cadastrar as metas e ações para a avaliação institucional.| Monitorar a avaliação.|
@@ -102,15 +92,26 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-001| O sistema deve permitir o cadastro de novos usuários. | ALTA |
+|RF-002| O sistema deve permitir a autenticação de usuário. | ALTA | 
+|RF-003| O sistema deve permitir a recuperação de senhas.| ALTA |
+|RF-004| Permitir que o usuário cadastre as metas e ações.| ALTA |
+|RF-005| Permitir que o usuário cadastre as questões.| ALTA |
+|RF-006| Exibir questionário de autoavaliação.| ALTA |
+|RF-007| Permitir que o usuário responda o questionário de autoavaliação de acordo com seu perfil.| ALTA |
+|RF-008| Enviar notificações ao usuário.| MÉDIA |
+|RF-009| Exibir resultados do questionário de autoavaliação.|MÉDIA| 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-003| O sistema deve possuir suporte a dispositivos IOS e Android |ALTA| 
+|RNF-004| O sistema não deverá apresentar dados de cunho privado aos usuários |ALTA|
+|RNF-005| O sistema deve ser intuitivo |ALTA|
+|RNF-006| O sistema deve funcionar 24 horas por dia, todos os dias da semana |ALTA|
+|RNF-007|O sistema deve recuperar de uma falha no processador em ate 1 s |MÉDIA|
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
