@@ -100,34 +100,21 @@ A terceira etapa consistiu no mapeamento dos requisitos que podem ser vistos nas
 |RF-008| Restringir o envio do questionário para 1 por usuário.|ALTA|
 |RF-009| Enviar notificações ao usuário.| MÉDIA |
 |RF-010| Exibir resultados do questionário de autoavaliação.|MÉDIA|
-|RF-011|Permitir o cadastro do cronograma da avaliação.|MÉDIA|
+|RF-011| Permitir o cadastro do cronograma da avaliação.|MÉDIA|
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve funcionar 24 horas por dia, todos os dias da semana |ALTA|
-|RNF-002| O sistema deve possuir suporte a dispositivos IOS e Android |ALTA| 
-|RNF-003| O sistema não deverá apresentar dados de cunho privado aos usuários.|ALTA|
-|RNF-004| O sistema deve ser responsivo para rodar em dispositivos móveis.| MÉDIA |
-|RNF-005| O sistema deve ser intuitivo.|MÉDIA|
-|RNF-006| O sistema deve recuperar de uma falha no processador em até 1s.|MÉDIA|
-|RNF-007| Deve processar requisições do usuário em no máximo 3s |  BAIXA |
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-001| O sistema deve funcionar 24 horas por dia, todos os dias da semana. |ALTA|
+|RNF-002| O sistema deve possuir suporte a dispositivos IOS e Android. |ALTA| 
+|RNF-003| O sistema deve exigir autenticação prévia de usuários.|ALTA|
+|RNF-004| O sistema não deverá apresentar dados de cunho privado aos usuários.|ALTA|
+|RNF-005| O sistema deve ser responsivo para rodar em dispositivos móveis.| MÉDIA |
+|RNF-006| O sistema deve ter boa usabilidade.|MÉDIA|
+|RNF-007| O sistema deve recuperar de uma falha no processador em até 1s.|MÉDIA|
+|RNF-008| O sistema deve conter mensagens que informem erros de utilização.|BAIXA|
+|RNF-009| Deve processar requisições do usuário em no máximo 3s. |  BAIXA |
 
 ## Restrições
 
@@ -160,8 +147,8 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 # Matriz de Rastreabilidade
 
-|      |RF-001|RF-002|RF-003|RF-004|RF-005|RF-006|RF-007|RF-008|RF-009|RNF-001|RNF-002|RNF-003|RNF-004|RNF-005|RNF-006|RNF-007|
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:------:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|      |RF-001|RF-002|RF-003|RF-004|RF-005|RF-006|RF-007|RF-008|RF-009|
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |RF-001|      |  X   |   X  |      |      |      |      |      |      |      
 |RF-002|  X   |      |      |      |      |      | X    |      |      |
 |RF-003|  X   |    |      |      |      |      | | | |
