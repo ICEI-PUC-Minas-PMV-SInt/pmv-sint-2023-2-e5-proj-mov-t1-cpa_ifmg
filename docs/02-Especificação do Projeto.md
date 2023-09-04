@@ -18,29 +18,20 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
+|Lúcia|Cadastrar as etapas da avaliação institucional.|Monitorar o processo de avaliação.|
 |Lúcia|Receber dados da Comissão Local.|Elaborar as perguntas do questionário de autoavaliação.|
 |Lúcia|Identificar os respondentes da avaliação.|Evitar que uma pessoa responda mais de uma vez ao questionário.|
 |Lúcia|Cadastrar as perguntas.|Elaborar o questionário de autoavaliação.|
 |Lúcia|Identificar o perfil do respondente.|Disponibilizar o questionário adequado ao perfil.|
 |Lúcia|Disponibilizar o questionário de autoavaliação.|Permitir que os respondentes tenham acesso ao questionário.|
-|Lúcia|Receber os resultados da avaliação institucional do _campus_.|Redigir os relatórios de avaliação institucional do IFMG.|
+|Lúcia|Receber os resultados da avaliação institucional do _campus_.|Redigir os relatórios de avaliação institucional .|
 |Jorge|Receber os dados do questionário de avaliação.| Elaborar o relatório de autoavaliação institucional do _campus._|
 |Jorge|Cadastrar as metas e ações para a avaliação institucional.| Monitorar a avaliação.|
-|Jorge|Transferir os resultados do questionário de autoavaliação para uma planilha.|Enviar os dados para a Comissão Central.|
+|Jorge|Transferir os resultados do questionário de autoavaliação para uma planilha.|<li>Enviar os dados para a Comissão Central.</li><li>Elaborar o relatório de autoavaliação do _campus_.</li>|
 |Jorge|Enviar os dados da avaliação institucional do _campus_ para a Comissão Central.|Elaborar o relatório geral de autoavaliação.|
 |Pedro/Júlia/Maria|Receber notificações.|Lembrar de responder ao questionário.|
-|Pedro/Júlia/Maria| Acessar o questionário de autoavaliação.| Responder ao questionário.|
-|Pedro/Júlia/Maria| Acessar o perfil de respondente.| Responder ao questionário adequado.|
-
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+|Pedro/Júlia/Maria|Acessar o questionário de autoavaliação.| Responder ao questionário.|
+|Pedro/Júlia/Maria|Acessar o perfil de respondente.| Responder ao questionário adequado.|
 
 ## Modelagem do Processo de Negócio 
 
