@@ -14,7 +14,7 @@ Um dos componentes desse processo avaliativo é a avaliação institucional inte
 
 No caso do Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG), a autoavaliação é conduzida por uma CPA Central e 18 CPA’s Locais em razão da estrutura multicampi dessa unidade de ensino.  
 
-Além disso, o IFMG  realiza sua avaliação interna através de questionários que coletam respostas dadas por professores, estudantes, técnicos administrativos e comunidade externa. A partir dessas respostas, são elaborados anualmente 18 relatórios parciais, sendo um de cada campus do IFMG, e um relatório geral que consolida informações de todos os campi.  
+Além disso, o IFMG  realiza sua avaliação interna através de questionários que coletam respostas dadas por professores,  técnicos administrativos, estudantes e comunidade externa. A partir dessas respostas, são elaborados anualmente 18 relatórios parciais, sendo um de cada campus do IFMG, e um relatório geral que consolida informações de todos os campi.  
 
 Contudo, a realização da autoavaliação no IFMG tem sido um desafio, pois, além de historicamente a avaliação interna possuir baixa participação dos atores envolvidos no preenchimento dos questionários, a instituição ainda não possui uma ferramenta que transmita de forma segura e automatizada as informações geradas nos relatórios parciais para construção do relatório geral.
 
@@ -52,7 +52,7 @@ Em razão dos problemas apresentados, o projeto tem como objetivo geral a constr
 
 ## Justificativa
 
-Nesse contexto, o presente projeto se justifica, uma vez que a implantação  de mecanismos que permitam uma melhor eficiência na sensibilização de participantes, na coleta e na transmissão de dados aprimora o processo avaliativo, tornando-o ponto de referência para a construção de políticas educacionais. Um sistema robusto de autoavaliação é requisito essencial para elaboração de um planejamento estratégico em consonância com as necessidades dos atores envolvidos.  
+Nesse contexto, o presente projeto se justifica, uma vez que a implantação de mecanismos que permitam uma melhor eficiência na sensibilização de participantes, na coleta e na transmissão de dados aprimora o processo avaliativo, tornando-o ponto de referência para a construção de políticas educacionais. Um sistema robusto de autoavaliação é requisito essencial para elaboração de um planejamento estratégico em consonância com as necessidades dos atores envolvidos.  
 
 A melhoria da segurança e da qualidade das avaliações internas aumenta a confiabilidade dos gestores nos diagnósticos realizados e estes, ao se apropriarem das informações geradas, tornam suas ações mais assertivas e alinhadas à visão coletiva. 
 
@@ -61,13 +61,11 @@ Por outro lado, o público alvo ao se sentir escutado em seus anseios, tende a p
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O público alvo do projeto envolve três principais grupos: respondentes dos questionários, responsáveis por elaborar os relatórios e o público que tem interesse nas informações geradas pela CPA. 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+O grupo de respondentes dos questionários é formado por professores, técnicos administrativos, alunos e comunidade externa (como, por exemplo, pais, terceirizados, representantes externos de entidades participantes de projetos e pesquisa). 
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+O grupo de responsáveis por elaborar os relatórios é formado por membros da CPA Central e membros das CPA’s Locais. A CPA Central possui um servidor representante de cada Pró-Reitoria e Diretoria Sistêmica da Reitoria. As CPA’s Locais possuem representantes dos seguintes segmentos: docente, técnico administrativo, discente e sociedade civil. 
+
+O público de interesse das informações geradas são principalmente a comunidade acadêmica, gestores, auditores externos.
+
