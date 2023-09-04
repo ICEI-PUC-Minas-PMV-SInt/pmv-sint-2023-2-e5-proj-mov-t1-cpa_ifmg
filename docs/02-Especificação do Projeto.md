@@ -99,7 +99,7 @@ A terceira etapa consistiu no mapeamento dos requisitos que podem ser vistos nas
 |RF-007| Permitir que o usuário responda o questionário de autoavaliação de acordo com seu perfil.| ALTA |
 |RF-008| Restringir o envio do questionário para 1 por usuário.|ALTA|
 |RF-009| Enviar notificações ao usuário.| MÉDIA |
-|RF-010| Exibir resultados do questionário de autoavaliação.|MÉDIA|
+|RF-010| Disponibilizar resultados do questionário de autoavaliação.|MÉDIA|
 |RF-011| Permitir o cadastro do cronograma da avaliação.|MÉDIA|
 
 ### Requisitos não Funcionais
