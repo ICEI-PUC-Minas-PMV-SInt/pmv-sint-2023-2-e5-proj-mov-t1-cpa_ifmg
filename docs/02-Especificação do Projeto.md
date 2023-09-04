@@ -43,11 +43,23 @@ Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o 
 
 Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
 
-### Processo 1 – NOME DO PROCESSO
+### Processo 1 – PARTICIPAÇÃO NA AVALIAÇÃO INSTITUCIONAL
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+No primeiro processo desenhado, a CPA Central inicia o processo de planejamento da avaliação institucional com a definição de cronogramas, indicadores, perguntas do questionário e criação de materiais de divulgação. Esse planejamento é aprovado tanto por membros da CPA Central quanto por membros das CPA’s Locais. 
 
-![Processo 1](img/02-bpmn-proc1.png)
+O questionário é cadastrado no sistema com a definição de data de início e término da avaliação. Antes do início da pesquisa, é realizado um processo de validação no qual os membros da CPA avaliam possíveis falhas no preenchimento e erros de gramática. Somente após tal validação, o questionário é disponibilizado para realização da autoavaliação ao mesmo tempo em que é realizada a divulgação da campanha para conscientizar o público participante. 
+
+Nesse processo, pode-se melhorar os seguintes aspectos: 
+Processo de Planejamento: pode-se aprimorar a comunicação entre CPA Central e Locais sobre o processo de planejamento no qual cada item do questionário proposto pode ser avaliado, com local para sugestões de melhoria, além de informações sobre restrições sobre o calendário do campus que possam impactar no processo avaliativo. 
+Processo de validação: o sistema pode apresentar um módulo de teste/pré-visualização. 
+Sensibilização do Público Alvo: o sistema pode disparar e-mails/ mensagens para conscientizar o público sobre o período de autoavaliação. 
+Abertura da Autoavaliação: pode-se implementar requisitos de segurança para acesso ao sistema e assim evitar que usuários participem mais de uma vez da resposta do questionário. 
+Resposta de Questionário: O sistema deve-se apresentar com melhorias quanto à usabilidade e à acessibilidade, apresentando-se em ambiente virtual atrativo. 
+
+
+![CPA 1](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/49c2465a-b96d-4a23-ade4-bee2f70c5794)
+
+
 
 ### Processo 2 – NOME DO PROCESSO
 
