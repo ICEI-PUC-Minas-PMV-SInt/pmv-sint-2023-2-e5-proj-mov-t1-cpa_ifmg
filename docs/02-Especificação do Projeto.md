@@ -66,11 +66,13 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 
 ## Requisitos
 
-Para o levantamento dos requisitos, bem como sua prioridade, foi utilizada a técnica de levantamento orientado a pontos de vista. Essa técnica foi escolhida por sua facilidade em conciliar os pontos de vista do público alvo com as desenvolvedoras do projeto para determinar as prioridades do requisitos. Para essa primeira etapa do projeto, devido ao cronograma para o desenvolvimento da aplicação, essa conciliação de pontos de vistas se mostrou fundamental para a determinação dessas prioridades.
+Para o levantamento dos requisitos, bem como sua prioridade, foi utilizada a técnica de levantamento orientado a pontos de vista. Essa técnica foi escolhida por sua facilidade em conciliar os pontos de vista do público alvo com os das desenvolvedoras do projeto para determinar as prioridades do requisitos. Para essa primeira etapa do projeto, devido ao cronograma para o desenvolvimento da aplicação, essa conciliação se mostrou fundamental para a determinação das prioridades.
 
-Seguindo essa técnica, a primeira etapa foi identificar os possíveis pontos de vista. Nessa parte os pontos de vista foram determinados a partir das conversas realizadas com os usuários para identificar os serviços em potencial. Após essas conversas, as desenvolvedoras também se reuniram para conversar sobre as prioridades de desenvolvimento da aplicação.
+Seguindo essa técnica, a primeira etapa foi identificar os possíveis pontos de vista. Nessa parte, os pontos de vista foram determinados a partir das conversas realizadas com os usuários para identificar os serviços em potencial. Após essas conversas, as desenvolvedoras também se reuniram para conversar sobre as prioridades de desenvolvimento da aplicação.
 
-Em seguida, para a segunda etapa desse levantamento, os pontos de vista foram estruturados, seguindo a hierarquia de prioridade. O mapeamento desses requisitos podem ser vistos nas tabelas a seguir.
+Em seguida, para a segunda etapa desse levantamento, os pontos de vista foram estruturados, seguindo a hierarquia de prioridade. 
+
+A terceira etapa consistiu no mapeamento dos requisitos que podem ser vistos nas tabelas a seguir.
 
 ### Requisitos Funcionais
 
@@ -86,18 +88,19 @@ Em seguida, para a segunda etapa desse levantamento, os pontos de vista foram es
 |RF-008| Restringir o envio do questionário para 1 por usuário.|ALTA|
 |RF-009| Enviar notificações ao usuário.| MÉDIA |
 |RF-010| Exibir resultados do questionário de autoavaliação.|MÉDIA|
+|RF-011|Permitir o cadastro do cronograma da avaliação.|MÉDIA|
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-003| O sistema deve possuir suporte a dispositivos IOS e Android |ALTA| 
-|RNF-004| O sistema não deverá apresentar dados de cunho privado aos usuários |ALTA|
-|RNF-005| O sistema deve ser intuitivo |ALTA|
-|RNF-006| O sistema deve funcionar 24 horas por dia, todos os dias da semana |ALTA|
-|RNF-007| O sistema deve recuperar de uma falha no processador em até 1s |MÉDIA|
+|RNF-001| O sistema deve funcionar 24 horas por dia, todos os dias da semana |ALTA|
+|RNF-002| O sistema deve possuir suporte a dispositivos IOS e Android |ALTA| 
+|RNF-003| O sistema não deverá apresentar dados de cunho privado aos usuários.|ALTA|
+|RNF-004| O sistema deve ser responsivo para rodar em dispositivos móveis.| MÉDIA |
+|RNF-005| O sistema deve ser intuitivo.|MÉDIA|
+|RNF-006| O sistema deve recuperar de uma falha no processador em até 1s.|MÉDIA|
+|RNF-007| Deve processar requisições do usuário em no máximo 3s |  BAIXA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -121,7 +124,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|02| O front-end deverá ser desenvolvido em react-native.|
+|03| Deverá se comunicar com o módulo back-end por meio de uma API.|
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
@@ -144,11 +148,11 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 # Matriz de Rastreabilidade
 
-|      |RF-001|RF-002|RF-003|RF-004|RF-005|RF-006|RF-007|RF-008|RF-009|
-|------|------|------|------|------|------|------|------|------|------|
-|RF-001|      |  X   |      |      |      |      |      |      |      |
-|RF-002|      |      |      |      |      |      | X    |      |      |
-|RF-003|      |X     |      |      |      |      | | | |
+|      |RF-001|RF-002|RF-003|RF-004|RF-005|RF-006|RF-007|RF-008|RF-009|RNF-001|RNF-002|RNF-003|RNF-004|RNF-005|RNF-006|RNF-007|
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:------:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|RF-001|      |  X   |   X  |      |      |      |      |      |      |      
+|RF-002|  X   |      |      |      |      |      | X    |      |      |
+|RF-003|  X   |    |      |      |      |      | | | |
 |RF-004| | | | | | | | ||
 |RF-005| | | | | | | | ||
 |RF-006| | | | | | | | |
