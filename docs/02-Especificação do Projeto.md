@@ -66,7 +66,11 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
+Para o levantamento dos requisitos, bem como sua prioridade, foi utilizada a técnica de levantamento orientado a pontos de vista. Essa técnica foi escolhida por sua facilidade em conciliar os pontos de vista do público alvo com as desenvolvedoras do projeto para determinar as prioridades do requisitos. Para essa primeira etapa do projeto, devido ao cronograma para o desenvolvimento da aplicação, essa conciliação de pontos de vistas se mostrou fundamental para a determinação dessas prioridades.
+
+Seguindo essa técnica, a primeira etapa foi identificar os possíveis pontos de vista. Nessa parte os pontos de vista foram determinados a partir das conversas realizadas com os usuários para identificar os serviços em potencial. Após essas conversas, as desenvolvedoras também se reuniram para conversar sobre as prioridades de desenvolvimento da aplicação.
+
+Em seguida, para a segunda etapa desse levantamento, os pontos de vista foram estruturados, seguindo a hierarquia de prioridade. O mapeamento desses requisitos podem ser vistos nas tabelas a seguir.
 
 ### Requisitos Funcionais
 
@@ -79,9 +83,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-005| Permitir que o usuário cadastre as questões.| ALTA |
 |RF-006| Exibir questionário de autoavaliação.| ALTA |
 |RF-007| Permitir que o usuário responda o questionário de autoavaliação de acordo com seu perfil.| ALTA |
-|RF-008| Enviar notificações ao usuário.| MÉDIA |
-|RF-009| Exibir resultados do questionário de autoavaliação.|MÉDIA|
-|RF-010| Restringir o envio do questionário para 1 por usuário|ALTA|
+|RF-008| Restringir o envio do questionário para 1 por usuário.|ALTA|
+|RF-009| Enviar notificações ao usuário.| MÉDIA |
+|RF-010| Exibir resultados do questionário de autoavaliação.|MÉDIA|
+
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
