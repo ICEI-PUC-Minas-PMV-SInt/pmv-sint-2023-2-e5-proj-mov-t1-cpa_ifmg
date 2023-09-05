@@ -136,18 +136,13 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 Para facilitar a elicitação dos requisitos do sistema, optou-se pela separação dos diagramas de caso de uso em duas partes do sistema: a área de autenticação (Figura 1) e a área de interação com o sistema (Figura 2). Tal escolha se deve ao fato de que todos os atores deverão realizar a autenticação no sistema.
 
+![UseCase Diagram2](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/5978dbe1-4323-4d78-8b66-a0a41e8b8e9e)
 
+<p align = "center">Figura 1: Diagrama de Casos de Uso - Autenticação</p>
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
+![UseCase Diagram0](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/f27dc7e1-db1d-4bd2-8c67-4f02bbead637)
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
-
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+<p align = "center">Figura 2: Diagrama de Casos de Uso - Sistema CPA-IFMG</p>
 
 # Matriz de Rastreabilidade
 
