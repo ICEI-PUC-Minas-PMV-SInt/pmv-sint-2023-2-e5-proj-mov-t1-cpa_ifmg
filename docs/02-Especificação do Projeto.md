@@ -61,7 +61,18 @@ Nesse processo, pode-se melhorar os seguintes aspectos:
 
 
 
-### Processo 2 – NOME DO PROCESSO
+### Processo 2 – CONSOLIDAÇÃO DE RELATÓRIOS
+
+No segundo processo desenhado, a CPA utiliza planilhas eletrônicas para fazer o tratamento dos dados coletados durante a avaliação institucional, excluindo da base de dados as respostas incompletas (formulários de autoavaliação não preenchidos completamente pelo participante). Além disso, a CPA Central altera o nome da pergunta por siglas de indicadores correspondentes para facilitar a criação de fórmulas no LookerStudio, programa onde são construídos os relatórios. 
+
+Essas vinculadas planilhas no LookerStudio e funcionam como fontes de dados para esse programa.  Além disso, são vinculadas ao programa em questão planilhas para preenchimento das CPA’s Locais. Nelas são informados os nomes dos membros das comissões, as metas propostas, as metas alcançadas e as propostas de melhorias. 
+
+Cabe destacar que existe uma planilha de inserção de dados para cada campi para diminuir de problemas no preenchimento, já que são 18 comissões realizando esse trabalho. Por fim, o relatório construído pelas CPA’s Locais é encaminhado para a CPA Central. A CPA Central copia as informações geradas nas planilhas pelas comissões locais em uma nova planilha e também preenche informações como: os nomes dos membros das comissões, as metas propostas, as metas alcançadas e as propostas de melhorias.
+
+Nesse processo, pode-se melhorar os seguintes aspectos: 
+
+![CPA 2](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/13997856-ca7c-4c75-81a0-6a8bb99e95f1)
+
 
 Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
 
