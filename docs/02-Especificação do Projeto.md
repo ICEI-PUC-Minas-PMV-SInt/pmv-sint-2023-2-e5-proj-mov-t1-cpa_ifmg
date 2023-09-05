@@ -95,7 +95,7 @@ A terceira etapa consistiu no mapeamento dos requisitos, que podem ser vistos na
 |RF-003| O sistema deve permitir a recuperação de senhas.| ALTA |
 |RF-004| Permitir que o usuário cadastre as metas e ações.| ALTA |
 |RF-005| Permitir que o usuário cadastre as questões.| ALTA |
-|RF-006| Exibir questionário de autoavaliação.| ALTA |
+|RF-006| Disponibilizar o questionário de autoavaliação.| ALTA |
 |RF-007| Permitir que o usuário responda o questionário de autoavaliação de acordo com seu perfil.| ALTA |
 |RF-008| Restringir o envio de um questionário por usuário.|ALTA|
 |RF-009| Enviar notificações ao usuário.| MÉDIA |
@@ -146,17 +146,21 @@ Para facilitar a elicitação dos requisitos do sistema, optou-se pela separaç�
 
 # Matriz de Rastreabilidade
 
-|      |RF-001|RF-002|RF-003|RF-004|RF-005|RF-006|RF-007|RF-008|RF-009|
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+Para a primeira etapa do projeto foi elaborada a matriz de rastreabilidade horizontal para mapear a relação de dependência entre os requisitos funcionais do sistema, conforme quadro a seguir.
+
+|      |RF-001|RF-002|RF-003|RF-004|RF-005|RF-006|RF-007|RF-008|RF-009|RF-010|RF-011|
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|      
 |RF-001|      |  X   |   X  |      |      |      |      |      |      |      
 |RF-002|  X   |      |      |      |      |      | X    |      |      |
-|RF-003|  X   |    |      |      |      |      | | | |
-|RF-004| | | | | | | | ||
-|RF-005| | | | | | | | ||
-|RF-006| | | | | | | | |
-|RF-007|  |    |      |      |      |      |      |      |  X   |
-|RF-008| | | | | | | | | |
-|RF-009| | | | | | | | | |
+|RF-003|  X   |      |      |      |      |      |      |      |      |
+|RF-004|      |   X  |      |      |      |      |      |      |      |
+|RF-005|      |   X  |      |      |      |      |      |      |      |
+|RF-006|      |   X  |      |      |  X   |      |      |      |      |
+|RF-007|      |  X   |      |      |   X  |   X  |      |      |      |
+|RF-008|      |  X   |      |      |      |      |      |      |      |
+|RF-009|      |  X   |      |      |      |      |      |      |      |      |  X  |
+|RF-010|      |  X   |      |      |      |  X   |  X   |      |      |
+|RF-011|      |  X   |      |      |      |      |      |      |      |
 
 A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
 
