@@ -78,13 +78,13 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 
 ## Requisitos
 
-Para o levantamento dos requisitos, bem como sua prioridade, foi utilizada a técnica de levantamento orientado a pontos de vista. Essa técnica foi escolhida por sua facilidade em conciliar os pontos de vista do público alvo com os das desenvolvedoras do projeto para determinar as prioridades do requisitos. Para essa primeira etapa do projeto, devido ao cronograma para o desenvolvimento da aplicação, essa conciliação se mostrou fundamental para a determinação das prioridades.
+Para o levantamento dos requisitos, bem como sua prioridade, além da utilização das histórias de usuários, foi adotada a técnica de levantamento orientado a pontos de vista. Essa foi escolhida por sua praticidade em determinar as prioridades de requisitosa partir da conciliação entre os pontos de vista do público alvo e os das desenvolvedoras. Para a primeira etapa do projeto, devido ao cronograma para o desenvolvimento da aplicação, essa conciliação se mostrou fundamental para a determinação das prioridades.
 
 Seguindo essa técnica, a primeira etapa foi identificar os possíveis pontos de vista. Nessa parte, os pontos de vista foram determinados a partir das conversas realizadas com os usuários para identificar os serviços em potencial. Após essas conversas, as desenvolvedoras também se reuniram para conversar sobre as prioridades de desenvolvimento da aplicação.
 
 Em seguida, para a segunda etapa desse levantamento, os pontos de vista foram estruturados, seguindo a hierarquia de prioridade. 
 
-A terceira etapa consistiu no mapeamento dos requisitos que podem ser vistos nas tabelas a seguir.
+A terceira etapa consistiu no mapeamento dos requisitos, que podem ser vistos nas tabelas a seguir.
 
 ### Requisitos Funcionais
 
@@ -133,6 +133,10 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 > - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
+
+Para facilitar a elicitação dos requisitos do sistema, optou-se pela separação dos diagramas de caso de uso em duas partes do sistema: a área de autenticação (Figura 1) e a área de interação com o sistema (Figura 2). Tal escolha se deve ao fato de que todos os atores deverão realizar a autenticação no sistema.
+
+
 
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
 
