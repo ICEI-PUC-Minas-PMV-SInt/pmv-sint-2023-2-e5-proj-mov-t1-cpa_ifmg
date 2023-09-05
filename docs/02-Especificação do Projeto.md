@@ -160,7 +160,7 @@ Para a primeira etapa do projeto foi elaborada a matriz de rastreabilidade horiz
 |RF-008|      |  X   |      |      |      |      |      |      |      |
 |RF-009|      |  X   |      |      |      |      |      |      |      |      |  X  |
 |RF-010|      |  X   |      |      |      |  X   |  X   |      |      |
-|RF-011|      |  X   |      |      |      |      |      |      |      |
+|RF-011|      |  X   |      |      |      |      |      |      |  X   |
 
 
 # Gerenciamento de Projeto
