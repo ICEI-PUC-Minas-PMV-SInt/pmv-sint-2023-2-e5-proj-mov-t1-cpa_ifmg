@@ -162,17 +162,6 @@ Para a primeira etapa do projeto foi elaborada a matriz de rastreabilidade horiz
 |RF-010|      |  X   |      |      |      |  X   |  X   |      |      |
 |RF-011|      |  X   |      |      |      |      |      |      |      |
 
-A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
-
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
-
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
-
-> **Links Úteis**:
-> - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
-> - [Verificação da rastreabilidade de requisitos usando a integração do IBM Rational RequisitePro e do IBM ClearQuest Test Manager](https://developer.ibm.com/br/tutorials/requirementstraceabilityverificationusingrrpandcctm/)
-> - [IBM Engineering Lifecycle Optimization – Publishing](https://www.ibm.com/br-pt/products/engineering-lifecycle-optimization/publishing/)
-
 
 # Gerenciamento de Projeto
 
@@ -190,9 +179,11 @@ O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utiliz
 
 ## Gerenciamento de Equipe
 
-O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
+Uma vez que a equipe é constituída por apenas duas pessoas, ambas ficarão responsáveis por todo andamento do projeto. Assim, optou-se pela utilização do quadro Kanban disponível no Trello para o gerenciamento das tarefas da equipe. A figura a seguir mostra o gerenciamento das tarefas da primeira etapa do projeto. 
 
-![Simple Project Timeline](img/02-project-timeline.png)
+![kanban](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/e76a0270-4124-4a82-ab4b-8aa0cba22a90)
+
+Ao final da mesma, as tarefas correpondentes às outras etapas serão agregadas ao quadro.
 
 ## Gestão de Orçamento
 
