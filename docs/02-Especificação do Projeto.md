@@ -70,6 +70,10 @@ Essas vinculadas planilhas no LookerStudio e funcionam como fontes de dados para
 Cabe destacar que existe uma planilha de inserção de dados para cada campi para diminuir de problemas no preenchimento, já que são 18 comissões realizando esse trabalho. Por fim, o relatório construído pelas CPA’s Locais é encaminhado para a CPA Central. A CPA Central copia as informações geradas nas planilhas pelas comissões locais em uma nova planilha e também preenche informações como: os nomes dos membros das comissões, as metas propostas, as metas alcançadas e as propostas de melhorias.
 
 Nesse processo, pode-se melhorar os seguintes aspectos: 
+- Tratamento e organização de dados: pode-se já associar os indicadores aos seus respectivos códigos para que essa tarefa não seja manual. Além de haver a possibilidade de excluir via sistema a respostas incompletas. 
+- Elaboração de relatórios parciais: o sistema pode apresentar funcionalidades para preenchimento das informações sobre os nomes dos membros, as metas propostas, as metas alcançadas e as propostas de melhorias a CPA’s Locais. Além disso, essas informações devem ser extraídas em arquivos do tipo .xls, podendo utilizar filtros por campi, para utilização como fonte de dados pelo Looker Studio. 
+- Elaboração de relatório consolidado: deve permitir a inclusão nomes dos membros, as metas propostas, as metas alcançadas e as propostas de melhorias da CPA Central. Além disso, deve permitir a extração de todos os dados incluídos pelas CPA’s Central e Locais.  
+
 
 ![CPA 2](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/13997856-ca7c-4c75-81a0-6a8bb99e95f1)
 
