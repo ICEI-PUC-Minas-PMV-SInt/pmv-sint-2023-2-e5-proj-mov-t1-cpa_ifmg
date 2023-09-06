@@ -48,7 +48,7 @@ Na divulgação de resultados, existe a dificuldade de apresentar os dados gerad
 
 ### Descrição Geral da Proposta
 
-Esta proposta de melhoria visa aprimorar os processos de planejamento e execução da avaliação institucional, de coleta de respostas, de consolidação de relatórios e de apresentação de informações e resultados relacionados à autoavaliação. 
+Esta proposta de melhoria tem como finalidade o aprimoramento dos processos de planejamento e execução da avaliação institucional, de coleta de respostas, de consolidação de relatórios e de apresentação de informações e resultados relacionados à autoavaliação. 
 
 É preciso ressaltar que a construção do sistema visa colaborar com a implementação de uma política institucional de autoavaliação mais sólida, porém o fato do sistema não estar diretamente vinculado ao sistema comumente utilizado pela comunidade acadêmica é uma limitação dessa proposta. O ideal é que essa proposta seja absorvida pelo sistema mais acessado por professores, técnicos administrativos e alunos.  
 
