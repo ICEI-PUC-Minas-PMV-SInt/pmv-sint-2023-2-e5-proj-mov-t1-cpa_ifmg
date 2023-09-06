@@ -37,7 +37,14 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Atualmente a CPA apresenta dificuldades em três momentos da avaliação institucional: planejamento e coleta de respostas; consolidação de relatórios e divulgação de resultados. 
+
+No planejamento e coleta de dados há dificuldade de comunicação entre as comissões como a definição de indicadores e cronograma, aprovação e envio de materiais de divulgação, sensibilização do público respondente, falta de requisitos de segurança para responder o questionário e plataforma de coleta de dados pouco atrativa. 
+
+Na consolidação, a maior dificuldade é a entrega dos dados dentro do prazo pelas comissões centrais e a unificação desses dados em uma única base de dados para elaboração do relatório consolidado. 
+
+Na divulgação de resultados, existe a dificuldade de apresentar os dados gerados na autoavaliação de forma organizada, atualizada e em local de fácil acesso e boa usabilidade. 
+
 
 ### Descrição Geral da Proposta
 
