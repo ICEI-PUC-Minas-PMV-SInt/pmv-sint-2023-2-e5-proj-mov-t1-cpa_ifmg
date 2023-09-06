@@ -211,6 +211,15 @@ Ao final da mesma, as tarefas correpondentes às outras etapas serão agregadas 
 
 ## Gestão de Orçamento
 
+O quadro a seguir apresenta o custo estimado do projeto.
+
+|Recursos Necessários|R$|
+|:-------------------:|:---:|
+|Recursos Humanos|4226,4|
+|Energia elétrica|4,83|
+|Internet|1,20|
+|TOTAL|4232,43|
+
 O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
 
 ![Orçamento](img/02-orcamento.png)
