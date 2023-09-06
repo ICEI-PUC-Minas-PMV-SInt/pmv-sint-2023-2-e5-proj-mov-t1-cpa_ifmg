@@ -67,7 +67,7 @@ No segundo processo desenhado, a CPA utiliza planilhas eletrônicas para fazer o
 
 Essas planilhas são vinculadas no LookerStudio e funcionam como fontes de dados para esse programa.  Além disso, são vinculadas ao programa em questão planilhas para preenchimento das CPA’s Locais. Nelas são informados os nomes dos membros das comissões, as metas propostas, as metas alcançadas e as propostas de melhorias. 
 
-Cabe destacar que existe uma planilha de inserção de dados para cada campi para diminuir de problemas no preenchimento, já que são 18 comissões realizando esse trabalho. Por fim, o relatório construído pelas CPA’s Locais é encaminhado para a CPA Central. A CPA Central copia as informações geradas nas planilhas pelas comissões locais em uma nova planilha e também preenche informações como: os nomes dos membros das comissões, as metas propostas, as metas alcançadas e as propostas de melhorias.
+Cabe destacar que existe uma planilha de inserção de dados para cada campi para diminuir de problemas no preenchimento, já que são 18 comissões realizando esse trabalho. Por fim, o relatório construído pelas CPA’s Locais é encaminhado para a CPA Central. A CPA Central utiliza as informações geradas nas planilhas pelas comissões locais em uma nova planilha e também preenche informações como: os nomes dos membros das comissões, as metas propostas, as metas alcançadas e as propostas de melhorias.
 
 Nesse processo, pode-se melhorar os seguintes aspectos: 
 - Tratamento e organização de dados: pode-se já associar os indicadores aos seus respectivos códigos para que essa tarefa não seja manual. Além de haver a possibilidade de excluir via sistema a respostas incompletas. 
