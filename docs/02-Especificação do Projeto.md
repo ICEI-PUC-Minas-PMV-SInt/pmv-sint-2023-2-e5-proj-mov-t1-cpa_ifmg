@@ -48,7 +48,9 @@ Na divulgação de resultados, existe a dificuldade de apresentar os dados gerad
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+Esta proposta de melhoria visa aprimorar os processos de planejamento e execução da avaliação institucional, de coleta de respostas, de consolidação de relatórios e de apresentação de informações e resultados relacionados à autoavaliação. 
+
+É preciso ressaltar que a construção do sistema visa colaborar com a implementação de uma política institucional de autoavaliação mais sólida, porém o fato do sistema não estar diretamente vinculado ao sistema comumente utilizado pela comunidade acadêmica é uma limitação dessa proposta. O ideal é que essa proposta seja absorvida pelo sistema mais acessado por professores, técnicos administrativos e alunos.  
 
 ### Processo 1 – PLANEJAMENTO E COLETA DE RESPOSTAS NA AVALIAÇÃO INSTITUCIONAL
 
