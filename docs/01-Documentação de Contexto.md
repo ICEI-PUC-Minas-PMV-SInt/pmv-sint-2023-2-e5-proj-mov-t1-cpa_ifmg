@@ -18,7 +18,9 @@ Além disso, o IFMG  realiza sua avaliação interna através de questionários 
 
 Contudo, a realização da autoavaliação no IFMG tem sido um desafio, pois, além de historicamente a avaliação interna possuir baixa participação dos atores envolvidos no preenchimento dos questionários, a instituição ainda não possui uma ferramenta que transmita de forma segura e automatizada as informações geradas nos relatórios parciais para construção do relatório geral.
 
-Diante do exposto, este projeto tem por finalidade a criação de um sistema que facilite os processos de avaliação institucional do IFMG, possuindo o potencial de aumentar a participação do público alvo e tornar a sistematização e organização de dados mais eficiente e segura. Subsidiariamente, o projeto visa melhorar a transparência ativa do IFMG, disponibilizando informações relativas à autoavaliação aos cidadãos.      
+Diante do exposto, este projeto tem por finalidade a criação de um sistema que facilite os processos de avaliação institucional do IFMG, possuindo o potencial de aumentar a participação do público alvo e tornar a sistematização e organização de dados mais eficiente e segura. Subsidiariamente, o projeto visa melhorar a transparência ativa do IFMG, disponibilizando informações relativas à autoavaliação aos cidadãos.  
+
+O projeto tem capacidade latente de aprimorar o processo de avaliação institucional interna em outras instituições de ensino, uma vez que o modelo aqui apresentado pode ser replicado nessas IES. Com isso, espera-se impactos positivos sobre a qualidade de ensino e aproximação das políticas educacionais aos anseios da sociedade. 
 
 
 ## Problema
