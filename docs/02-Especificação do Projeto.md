@@ -106,7 +106,7 @@ Para a presente proposta foram planejados 6 indicadores, sendo 3 da perspectiva 
 
 ## Requisitos
 
-Para o levantamento dos requisitos, bem como sua prioridade, além da utilização das histórias de usuários, foi adotada a técnica de levantamento orientado a pontos de vista. Essa foi escolhida por sua praticidade em determinar as prioridades de requisitosa partir da conciliação entre os pontos de vista do público alvo e os das desenvolvedoras. Para a primeira etapa do projeto, devido ao cronograma para o desenvolvimento da aplicação, essa conciliação se mostrou fundamental para a determinação das prioridades.
+Para o levantamento dos requisitos, bem como sua prioridade, além da utilização das histórias de usuários, foi adotada a técnica de levantamento orientado a pontos de vista. Essa foi escolhida por sua praticidade em determinar as prioridades de requisitos a partir da conciliação entre os pontos de vista do público alvo e das desenvolvedoras. Para a primeira etapa do projeto, devido ao cronograma para o desenvolvimento da aplicação, essa conciliação se mostrou fundamental para a determinação das prioridades.
 
 Seguindo essa técnica, a primeira etapa foi identificar os possíveis pontos de vista. Nessa parte, os pontos de vista foram determinados a partir das conversas realizadas com os usuários para identificar os serviços em potencial. Após essas conversas, as desenvolvedoras também se reuniram para conversar sobre as prioridades de desenvolvimento da aplicação.
 
