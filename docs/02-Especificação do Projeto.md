@@ -90,7 +90,7 @@ Nesse processo, pode-se melhorar os seguintes aspectos:
 
 ## Indicadores de Desempenho
 
-Para a presente proposta foram planejados 6 indicadores, sendo 3 da perspectiva clientes e 3 da perspectiva aprendizado e crescimento, conforme demonstrado na tabela a seguir: 
+Para a presente proposta foram planejados 6 indicadores com referência na metodologia BSC, sendo 3 desses indicadores da perspectiva clientes e 3 da perspectiva aprendizado e crescimento, conforme demonstrado na tabela a seguir: 
 
 
 |INDICADOR| OBJETIVOS |DESCRIÇÃO| CÁLCULO | FONTE DE DADOS | PERPECTIVA|
