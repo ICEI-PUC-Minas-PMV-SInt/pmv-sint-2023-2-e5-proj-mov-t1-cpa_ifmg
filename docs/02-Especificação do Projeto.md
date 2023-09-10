@@ -150,12 +150,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02| O front-end deverá ser desenvolvido em react-native.|
 |03| Deverá se comunicar com o módulo back-end por meio de uma API.|
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
 ## Diagrama de Casos de Uso
 
 Para facilitar a elicitação dos requisitos do sistema, optou-se pela separação dos diagramas de caso de uso em duas partes do sistema: a área de autenticação (Figura 1) e a área de interação com o sistema (Figura 2). Tal escolha se deve ao fato de que todos os atores deverão realizar a autenticação no sistema.
@@ -223,6 +217,4 @@ O quadro a seguir apresenta o custo estimado do projeto.
 |Internet|1,20|
 |TOTAL|4232,43|
 
-O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
 
-![Orçamento](img/02-orcamento.png)
