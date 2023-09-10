@@ -67,7 +67,7 @@ Nesse processo, pode-se melhorar os seguintes aspectos:
 
 
 ![CPA 1](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/bde5957a-5703-4a15-90be-017ff6293ce2)
-
+<p align = "center">Figura 1: Processo de planejamento e coleta de respostas da Avaliação Institucional</p>
 
 
 ### Processo 2 – CONSOLIDAÇÃO DE RELATÓRIOS E DIVULGAÇÃO DE RESULTADOS
@@ -87,7 +87,7 @@ Nesse processo, pode-se melhorar os seguintes aspectos:
 
 
 ![CPA 2](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/13997856-ca7c-4c75-81a0-6a8bb99e95f1)
-
+<p align = "center">Figura 2: Processo de consolidação de relatórios e divulgação de resultados</p>
 
 
 ## Indicadores de Desempenho
@@ -158,15 +158,15 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Diagrama de Casos de Uso
 
-Para facilitar a elicitação dos requisitos do sistema, optou-se pela separação dos diagramas de caso de uso em duas partes do sistema: a área de autenticação (Figura 1) e a área de interação com o sistema (Figura 2). Tal escolha se deve ao fato de que todos os atores deverão realizar a autenticação no sistema.
+Para facilitar a elicitação dos requisitos do sistema, optou-se pela separação dos diagramas de caso de uso em duas partes do sistema: a área de autenticação (Figura 3) e a área de interação com o sistema (Figura 4). Tal escolha se deve ao fato de que todos os atores deverão realizar a autenticação no sistema.
 
 ![UseCase Diagram2](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/5978dbe1-4323-4d78-8b66-a0a41e8b8e9e)
 
-<p align = "center">Figura 1: Diagrama de Casos de Uso - Autenticação</p>
+<p align = "center">Figura 3: Diagrama de Casos de Uso - Autenticação</p>
 
 ![UseCase Diagram0](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/f27dc7e1-db1d-4bd2-8c67-4f02bbead637)
 
-<p align = "center">Figura 2: Diagrama de Casos de Uso - Sistema CPA-IFMG</p>
+<p align = "center">Figura 4: Diagrama de Casos de Uso - Sistema CPA-IFMG</p>
 
 # Matriz de Rastreabilidade
 
@@ -196,11 +196,12 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 O projeto está estruturado em 4 etapas de execução, havendo em cada etapa atividades a serem entregues nos prazos estabelecidos. Além disso, o projeto deve ser executado no período de 01/08/2023 a 03/12/2023. O diagrama abaixo apresenta as atividades a serem realizadas em cada etapa, bem como seus respectivos prazos de execução. 
 
 ![PERT3_page-0001](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/04a84f1d-6b25-43e7-9c11-514fb0f0537c)
-
+<p align = "center">Figura 5: Diagrama PERT</p>
 O projeto também foi representado através do diagrama de Gantt para se ter uma melhor representação visual para controlar e gerenciar o cronograma de atividades. Nele é possível verificar as etapas, atividades e tempo estimado de execução.
 
 ![CPAFinal_page-0001](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/91a19f1a-51fb-42de-8ac1-3b53b5a71096)
 ![CPAFinal2_page-0001](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/f7c87ba1-0ea4-401c-b76c-34fd420e5506)
+<p align = "center">Figura 6: Diagrama de Gantt</p>
 
 
 ## Gerenciamento de Equipe
@@ -208,6 +209,7 @@ O projeto também foi representado através do diagrama de Gantt para se ter uma
 Uma vez que a equipe é constituída por apenas duas pessoas, ambas ficarão responsáveis por todo andamento do projeto. Assim, optou-se pela utilização do quadro Kanban disponível no Trello para o gerenciamento das tarefas da equipe. A figura a seguir mostra o gerenciamento das tarefas da primeira etapa do projeto. 
 
 ![kanban](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/e76a0270-4124-4a82-ab4b-8aa0cba22a90)
+<p align = "center">Figura 7: Gerenciamento de Tarefas de Equipe</p>
 
 Ao final da mesma, as tarefas correpondentes às outras etapas serão agregadas ao quadro.
 
