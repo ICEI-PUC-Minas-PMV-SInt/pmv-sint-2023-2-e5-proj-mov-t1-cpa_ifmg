@@ -70,7 +70,7 @@ Nesse processo, pode-se melhorar os seguintes aspectos:
 
 
 
-### Processo 2 – CONSOLIDAÇÃO DE RELATÓRIOS
+### Processo 2 – CONSOLIDAÇÃO DE RELATÓRIOS E DIVULGAÇÃO DE RESULTADOS
 
 No segundo processo desenhado, a CPA utiliza planilhas eletrônicas para fazer o tratamento dos dados coletados durante a avaliação institucional, excluindo da base de dados as respostas incompletas (formulários de autoavaliação não preenchidos completamente pelo participante). Além disso, a CPA Central altera o nome da pergunta por siglas de indicadores correspondentes para facilitar a criação de fórmulas no LookerStudio, programa onde são construídos os relatórios. 
 
@@ -81,7 +81,9 @@ Cabe destacar que existe uma planilha de inserção de dados para cada campi par
 Nesse processo, pode-se melhorar os seguintes aspectos: 
 - Tratamento e organização de dados: pode-se já associar os indicadores aos seus respectivos códigos para que essa tarefa não seja manual. Além de haver a possibilidade de excluir via sistema a respostas incompletas. 
 - Elaboração de relatórios parciais: o sistema pode apresentar funcionalidades para preenchimento das informações sobre os nomes dos membros, as metas propostas, as metas alcançadas e as propostas de melhorias a CPA’s Locais. Além disso, essas informações devem ser extraídas em arquivos do tipo .xls, podendo utilizar filtros por campi, para utilização como fonte de dados pelo Looker Studio. 
-- Elaboração de relatório consolidado: deve permitir a inclusão nomes dos membros, as metas propostas, as metas alcançadas e as propostas de melhorias da CPA Central. Além disso, deve permitir a extração de todos os dados incluídos pelas CPA’s Central e Locais.  
+- Elaboração de relatório consolidado: deve permitir a inclusão nomes dos membros, as metas propostas, as metas alcançadas e as propostas de melhorias da CPA Central. Além disso, deve permitir a extração de todos os dados incluídos pelas CPA’s Central e Locais.
+- Divulgação de resultados: é possível melhorar a divulgação de resultados com envio de mensagens à comunidade e melhoria da forma como os dados são apresentados no site institucional. 
+  
 
 
 ![CPA 2](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/13997856-ca7c-4c75-81a0-6a8bb99e95f1)
