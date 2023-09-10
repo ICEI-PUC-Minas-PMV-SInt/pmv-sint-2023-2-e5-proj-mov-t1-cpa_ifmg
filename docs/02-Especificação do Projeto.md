@@ -6,7 +6,7 @@ A partir do público alvo e pesquisa com esse público, foram elaboradas as pers
 
 |Foto|Nome|Descrição|Aplicativos|Motivações|Frustrações|Hobbies, História|
 |----|----|---------|-----------|----------|-----------|-----------------|
-|![pessoa 1](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/5e2e678b-5b21-4011-a650-bd24e21872c8)|Lúcia|<ul><li>35 anos;</li><li>Solteira;</li><li>Assistente Administrativo;</li><li>Aualmente participa da CPA como Presidente da Comissão.</li></ul>|<ul><li>Instagram;</li><li>Twitter;</li><li>Whatsapp.</li></ul>|<ul><li>Paulo Freire;</li><li>Marisa Monte;</li><li>Idaberto Chiavenato.</li></ul>|<ul><li>Não consegue receber os dados de todas as Comissões Locais no cronograma estipulado;</li><li>Gasta muito tempo para compilar esses dados;</li><li>Sente sobrecarregada ao tentar conciliar as tarefas do setor com as demandas da Comissão;<li>Não consegue manter o site da CPA atualizado.</li></ul>|<ul><li>Gosta de viajar;</li><li>Museus, bares e restaurantes;</li><li>Gosta de adquirir novas tecnologias;</li><li>Atualmente esta tentando uma licença para cursar o Doutorado.</li></ul>|
+|![pessoa 1](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/5e2e678b-5b21-4011-a650-bd24e21872c8)|Lúcia|<ul><li>35 anos;</li><li>Solteira;</li><li>Assistente Administrativo;</li><li>Atualmente participa da CPA como Presidente da Comissão.</li></ul>|<ul><li>Instagram;</li><li>Twitter;</li><li>Whatsapp.</li></ul>|<ul><li>Paulo Freire;</li><li>Marisa Monte;</li><li>Idaberto Chiavenato.</li></ul>|<ul><li>Não consegue receber os dados de todas as Comissões Locais no cronograma estipulado;</li><li>Gasta muito tempo para compilar esses dados;</li><li>Sente sobrecarregada ao tentar conciliar as tarefas do setor com as demandas da Comissão;<li>Não consegue manter o site da CPA atualizado.</li></ul>|<ul><li>Gosta de viajar;</li><li>Museus, bares e restaurantes;</li><li>Gosta de adquirir novas tecnologias;</li><li>Atualmente esta tentando uma licença para cursar o Doutorado.</li></ul>|
 |![images](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/a0319186-ad6d-4055-a8fe-3d622a6b5205)|Jorge|<ul><li>50 anos;</li><li>Casado;</li><li>1 filho e 1 neto;</li><li>Técnico em Assuntos Educacionais;</li><li>Atualmente foi indicado como membro da CPA local.</li></ul>|<ul><li>Instagram;</li><li>Facebook;</li><li>Teams;</li><li>Whatsapp.</li></ul>|<ul><li>Focault</li><li>Paulo Freire</li><li>Vygotsky</li></ul>|<ul><li>Encontra dificulades em enviar as informações sobre a Avaliação Institucional do seu campus dentro do cronograma estabelecido pela Comissão Central;</li><li>Às vezes entende quais são as suas atribuições na Comissão;</li><li>Sente sobrecarregado com os trabalhos do setor e da CPA;<li>Encontra dificuldades em atingir as metas de respostas do questionário de avaliação dentro do prazo estabelecido.</li></ul>|<ul><li>Gosta de viajar;</li><li>Filmes, séries e livros;</li><li>Esta estudando para outros concursos públicos.</li></ul>|
 | ![download](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/8295d98e-7798-4e7e-9208-b407b5ce2dcb)|Pedro|<ul><li>17 anos.</li><li>Aluno do 3º ano do curso Técnico.</li></ul>|<ul><li>Instagram;</li><li>Tik Tok;</li><li>Google Docs</li><li>Whatsapp.</li></ul>|<ul><li>Emicida;</li><li>Naruto;</li><li>Star Wars.</li></ul>|<ul><li>Pedro não possui interesse em responder questionários enviados pela escola e que não pontuam na sua avaliação, pois acha que são difíceis de responder pela tela do celular.</li></ul>|<ul><li>Sair com os amigos;</li><li>Jogar Videogame;</li><li>BoardGames;</li><li>Utiliza seu smartphone para resolver a maioria dos trabalhos escolares e ganhou um Tablet para auxiliar nos seus estudos.</li></ul>|
 |![download (1)](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/055cf833-8bd3-44a9-8891-fecbb52cfcc4)|Júlia|<ul><li>44 anos</li><li>Casada</li><li>Administradora.</li></ul>|<ul><li>Gmail</li><li>Facebook</li><li>Companias aéreas</li></ul>|<ul><li>Nuno Cobra.</li><li>Chris Gardner.</li><li>Eduardo Moreira</li></ul>|<ul><li>Esta à procura de novas oportunidade de trabalho.</li><li>Sente que a Instituição divulgava várias vagas de emprego, porém não houve nehum retorno da organização.</li><li>Não sabia que podia participar de consultas sobre sua Instituição de Ensino</li></ul>|<ul><li>Bares e restaurantes</li><li>Viagens</li><li>Cinema</li><li>Atualmente é servidor público.</li></ul>|
@@ -90,9 +90,8 @@ Nesse processo, pode-se melhorar os seguintes aspectos:
 
 ## Indicadores de Desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
+Para a presente proposta foram planejados 6 indicadores, sendo 3 da perspectiva clientes e 3 da perspectiva aprendizado e crescimento, conforme demonstrado na tabela a seguir: 
 
-Usar o seguinte modelo: 
 
 |INDICADOR| OBJETIVOS |DESCRIÇÃO| CÁLCULO | FONTE DE DADOS | PERPECTIVA|
 |----------------------------|--------------------------------------------|---------------------------------------------------------------------------------|--------------------|--------------------|--------------------|
@@ -192,17 +191,15 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 ## Gerenciamento de Tempo
 
-Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o gerente de projetos agenda e coordena tarefas dentro de um projeto para estimar o tempo necessário de conclusão.
+O projeto está estruturado em 4 etapas de execução, havendo em cada etapa atividades a serem entregues nos prazos estabelecidos. Além disso, o projeto deve ser executado no período de 01/08/2023 a 03/12/2023. O diagrama abaixo apresenta as atividades a serem realizadas em cada etapa, bem como seus respectivos prazos de execução. 
+
 ![PERT3_page-0001](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/04a84f1d-6b25-43e7-9c11-514fb0f0537c)
 
-![Diagrama de rede simplificado notação francesa (método francês)](img/02-diagrama-rede-simplificado.png)
+O projeto também foi representado através do diagrama de Gantt para se ter uma melhor representação visual para controlar e gerenciar o cronograma de atividades. Nele é possível verificar as etapas, atividades e tempo estimado de execução.
 
 ![CPAFinal_page-0001](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/91a19f1a-51fb-42de-8ac1-3b53b5a71096)
 ![CPAFinal2_page-0001](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/f7c87ba1-0ea4-401c-b76c-34fd420e5506)
 
-O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
-
-![Gráfico de Gantt](img/02-grafico-gantt.png)
 
 ## Gerenciamento de Equipe
 
