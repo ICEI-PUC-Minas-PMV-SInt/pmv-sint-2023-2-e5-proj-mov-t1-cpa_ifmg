@@ -4,7 +4,7 @@ A metodologia de trabalho adotada para desenvolvimento do projeto, iniciou-se co
 
 No processo de organização da equipe e otimização do ambiente de trabalho, optou-se pela utilização da metodologia SCRUM, por ela permitir a realização do trabalho de forma simples e dinâmica. Nesse método, o trabalho é realizado através de pequenos ciclos de atividades (Sprints) que tem o intuito de resolver problemas complexos e adaptativos.
 
-Para desenvolver uma Aplicação Web adequada, utilizamos a ferramenta de controle de versão git, e o Github como hospedagem do repositório. O software para criação e edição das Interfaces e Wireframes utilizado foi o Figma e as ferramentas para comunicação em grupo utilizamos o Whatsapp e o Teams. 
+Para desenvolver uma Aplicação Web adequada, utilizamos a ferramenta de controle de versão git, e o Github como hospedagem do repositório. O software para criação e edição das Interfaces e Wireframes escolhido foi o Figma e as ferramentas para comunicação em grupo são o Whatsapp e o Teams. 
 
 
 ## Relação de Ambientes de Trabalho
