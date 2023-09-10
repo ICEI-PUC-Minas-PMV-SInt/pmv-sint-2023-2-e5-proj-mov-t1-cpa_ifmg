@@ -87,9 +87,6 @@ Nesse processo, pode-se melhorar os seguintes aspectos:
 ![CPA 2](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/13997856-ca7c-4c75-81a0-6a8bb99e95f1)
 
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
-
-![Processo 2](img/02-bpmn-proc2.png)
 
 ## Indicadores de Desempenho
 
@@ -106,8 +103,6 @@ Usar o seguinte modelo:
 |Percentual de Entregas no Prazo| Verificar se as CPA's locais estão preenchendo dados dentro do prazo| A elaboração do relatório consolidado pela CPA Central depende de informações enviadas pelos membros das CPA's Locais dentro do prazo estabelecido. Esse indicador é importante para investigar em quais unidades as entregas não foram tempestivas com a finalidade de se identificar problemas que tem levado ao não cumprimento dos prazos. | (nº de entregas fornecidas dentro do prazo / nº de entregas esperadas)*100|  Tabelas de membros das comissões, metas propostas,  metas alcançadas e propostas de melhorias|Aprendizado e Crescimento |
 
 
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
 
 ## Requisitos
 
