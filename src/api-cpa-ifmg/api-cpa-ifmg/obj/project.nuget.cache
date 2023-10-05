@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "D87JlRPEmQX1HKyGNktU51V2LlDwIAr4G8z2dMUPv9F7f8a5JihsiCax2EHOq/iD0WwmEeH2DXMmnNHpCgZ7PA==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\projetoPUCMinas\\Projeto_eixo5\\git\\pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg\\src\\api-cpa-ifmg\\api-cpa-ifmg\\api-cpa-ifmg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dridr\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\dridr\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\dridr\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\dridr\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\dridr\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\dridr\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
