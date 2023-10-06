@@ -11,6 +11,7 @@ namespace api_cpa_ifmg.Models
         public string Area_Atuacao { get; set; }
         [Required]
         public string Eixo_Tecnologico { get; set; }
+        public ICollection<Campus> Unidade { get; set; }
 
     }
 }

@@ -13,5 +13,7 @@ namespace api_cpa_ifmg.Models
         [Required]
         public int PropostaId { get; set; }
         public Proposta Proposta { get; set; }
+
+        public ICollection<Curso> Cursos { get; set; }
     }
 }
