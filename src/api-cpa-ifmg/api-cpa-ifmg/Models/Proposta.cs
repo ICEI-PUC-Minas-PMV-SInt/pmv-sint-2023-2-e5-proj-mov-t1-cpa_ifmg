@@ -13,6 +13,8 @@ namespace api_cpa_ifmg.Models
         [Required]
         public SituacaoProposta Situacao { get; set; }
         [Required]
+        [DataType(DataType.Date)]
+        [DisplayFormat(DataFormatString ="{dd-MM-yyyy}")]
         public DateTime Data { get; set; }
 
         public ICollection<Campus> Unidade { get; set; }

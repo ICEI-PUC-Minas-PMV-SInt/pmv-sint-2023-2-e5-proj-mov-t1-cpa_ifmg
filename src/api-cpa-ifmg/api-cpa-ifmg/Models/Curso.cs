@@ -3,15 +3,14 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace api_cpa_ifmg.Models
 {
-    [Table("Campus")]
-    public class Campus
+    [Table("Cursos")]
+    public class Curso
     {
-        [Key]
         public int Id { get; set; }
         [Required]
-        public string Nome { get; set; }
+        public string Area_Atuacao { get; set; }
         [Required]
-        public int PropostaId { get; set; }
-        public Proposta Proposta { get; set; }
+        public string Eixo_Tecnologico { get; set; }
+
     }
 }
