@@ -3,35 +3,39 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace api_cpa_ifmg.Models
 {
-    [Table("Membros")]
-    public class Membro
+    [Table("Cronograma")]
+    public class Cronograma
     {
         [Key]
         public int Id { get; set; }
         [Required]
-        public string Portaria { get; set; }
+        public string DescricaoDasAtividades { get; set; }
         [Required]
-        public string Nome { get; set; }
+        public Situacao Situacao { get; set; }
+        public ResponsavelCronograma ResponsavelCronograma { get; set; }
         [Required]
-        public string Representação { get; set; }
-        [Required]
-
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{dd-MM-yyyy}")]
         public DateTime Data_Inicio { get; set; }
-
+        [Required]
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{dd-MM-yyyy}")]
         public DateTime Data_Termino { get; set; }
+        public string Procedimentos { get; set; }
         public int PropostaId { get; set; }
         public Proposta Proposta { get; set; }
 
     }
-    public enum Funcao
+    public enum Situacao
     {
-        Membro,
-        Presidente,
-        VicePresidente
+        AFazer,
+        EmAndamento,
+        Concluido
 
+    }
+    public enum ResponsavelCronograma
+    {
+        CPALocal,
+        CPACentral
     }
 }

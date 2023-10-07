@@ -18,13 +18,17 @@ namespace api_cpa_ifmg.Models
         public DateTime Data { get; set; }
 
         public ICollection<Campus> Unidade { get; set; }
-        
-     
+        public ICollection<Membro> Membros { get; set; }
+        public ICollection<Melhoria> Melhorias { get; set; }
+        public ICollection<Meta> Metas { get; set; }
+        public ICollection<Cronograma> Cronogramas { get; set; }
+
+
 
     }
     public enum TipoProposta
     {
-        Cadastro_Membros,
+        CadastroMembros,
         Relatorio
     }
     public enum SituacaoProposta
