@@ -14,6 +14,6 @@ namespace api_cpa_ifmg.Models
         public int PropostaId { get; set; }
         public Proposta Proposta { get; set; }
 
-        public ICollection<Curso> Cursos { get; set; }
+        public ICollection<CampusCurso> Cursos{ get; set; }
     }
 }

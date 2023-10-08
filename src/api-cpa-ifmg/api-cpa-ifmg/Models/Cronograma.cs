@@ -28,14 +28,19 @@ namespace api_cpa_ifmg.Models
     }
     public enum Situacao
     {
+       [Display(Name = "A fazer")]
         AFazer,
+        [Display(Name = "Em andamento")]
         EmAndamento,
+        [Display(Name = "Concluído")]
         Concluido
 
     }
     public enum ResponsavelCronograma
     {
+        [Display(Name = "CPA Local")]
         CPALocal,
+        [Display(Name = "CPA Central")]
         CPACentral
     }
 }

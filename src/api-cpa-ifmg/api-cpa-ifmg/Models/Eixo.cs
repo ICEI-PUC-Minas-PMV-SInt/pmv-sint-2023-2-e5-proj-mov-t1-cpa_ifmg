@@ -13,10 +13,10 @@ namespace api_cpa_ifmg.Models
         [Required]
         public string DescricaoDoEixo { get; set; }
         public int CicloId { get; set; }
-        public Ciclo Ciclo { get; set; }
-        public ICollection<Dimensao> Dimensoes { get; set; }
+        public Ciclo Ciclo { get; set; }       
         public int QuestionarioId { get; set; }
         public Questionario Questionario { get; set; }
+        public ICollection<Dimensao> Dimensoes { get; set; }
 
     }
 }

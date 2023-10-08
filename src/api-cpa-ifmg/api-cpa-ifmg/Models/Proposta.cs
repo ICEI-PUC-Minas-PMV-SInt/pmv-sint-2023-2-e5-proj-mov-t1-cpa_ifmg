@@ -17,7 +17,7 @@ namespace api_cpa_ifmg.Models
         [DisplayFormat(DataFormatString ="{dd-MM-yyyy}")]
         public DateTime Data { get; set; }
 
-        public ICollection<Campus> Unidade { get; set; }
+        public ICollection<Campus> Campuses { get; set; }
         public ICollection<Membro> Membros { get; set; }
         public ICollection<Melhoria> Melhorias { get; set; }
         public ICollection<Meta> Metas { get; set; }
@@ -28,13 +28,18 @@ namespace api_cpa_ifmg.Models
     }
     public enum TipoProposta
     {
+        [Display(Name = "Cadastro Membros")] 
         CadastroMembros,
+        [Display(Name = "Relatório")]
         Relatorio
     }
     public enum SituacaoProposta
     {
+        [Display(Name = "Em elaboração")] 
         Elaboracao,
+        [Display(Name = "Efetivada")]
         Efetivada,
+        [Display(Name = "Enviada")]
         Enviada
     }
 }

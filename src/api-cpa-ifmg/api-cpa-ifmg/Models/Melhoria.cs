@@ -21,9 +21,13 @@ namespace api_cpa_ifmg.Models
     }
     public enum Status
     {
+        [Display(Name = "Não Iniciado")]
         NaoIniciado,
+        [Display(Name = "Parcialmente Implementado")]
         ParcialmenteImplementado,
+        [Display(Name = "Implementado")]
         Implementado,
+        [Display(Name = "Não Implementado")]
         NaoImplementado
     }
 }

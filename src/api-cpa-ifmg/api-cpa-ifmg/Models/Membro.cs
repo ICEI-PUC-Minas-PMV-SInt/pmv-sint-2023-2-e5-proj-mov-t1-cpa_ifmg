@@ -29,8 +29,11 @@ namespace api_cpa_ifmg.Models
     }
     public enum Funcao
     {
+        [Display(Name = "Membro")]
         Membro,
+        [Display(Name = "Presidente")]
         Presidente,
+        [Display(Name = "Vice Presidente")]
         VicePresidente
 
     }

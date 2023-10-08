@@ -30,7 +30,9 @@ namespace api_cpa_ifmg.Models
     }
     public enum Responsavel
     {
+        [Display(Name = "CPA Local")]
         CPALocal,
+        [Display(Name = "CPA Central")]
         CPACentral
     }
 }
