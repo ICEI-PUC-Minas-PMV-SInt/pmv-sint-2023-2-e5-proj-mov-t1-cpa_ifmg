@@ -31,6 +31,7 @@ namespace api_cpa_ifmg.Controllers
         public async Task<ActionResult> GetById(int id)
         {
            var model = await _context.Propostas
+                .Include(t=>t.Campuses)
                 .FirstOrDefaultAsync(c=> c.Id ==id);
             if(model == null) return NotFound();
             return Ok(model);
