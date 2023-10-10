@@ -16,7 +16,7 @@ namespace api_cpa_ifmg.Models
                 .HasForeignKey(c => c.CampusId);
                 
             builder.Entity<CampusCurso>()
-                .HasOne(c => c.Curso).WithMany(c => c.Campuses)
+                .HasOne(c => c.Curso).WithMany(c => c.Campi)
                 .HasForeignKey(c => c.CursoId);
 
             builder.Entity<Eixo>().HasOne(s => s.Ciclo)
@@ -27,7 +27,7 @@ namespace api_cpa_ifmg.Models
                 .OnDelete(DeleteBehavior.ClientNoAction);
 
         }
-        public DbSet<Campus> Campuses { get; set; }
+        public DbSet<Campus> Campi { get; set; }
         public DbSet<Ciclo> Ciclos { get; set; }
         public DbSet<Cronograma> Cronogramas { get; set; }
         public DbSet<Curso> Cursos { get; set; }

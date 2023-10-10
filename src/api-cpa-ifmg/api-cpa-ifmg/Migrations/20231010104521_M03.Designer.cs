@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using api_cpa_ifmg.Models;
 
@@ -11,9 +12,11 @@ using api_cpa_ifmg.Models;
 namespace api_cpa_ifmg.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20231010104521_M03")]
+    partial class M03
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -278,9 +281,6 @@ namespace api_cpa_ifmg.Migrations
 
                     b.Property<DateTime>("Data_Termino")
                         .HasColumnType("datetime2");
-
-                    b.Property<int>("Funcao")
-                        .HasColumnType("int");
 
                     b.Property<string>("Nome")
                         .IsRequired()

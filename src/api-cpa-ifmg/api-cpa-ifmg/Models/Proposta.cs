@@ -17,7 +17,7 @@ namespace api_cpa_ifmg.Models
         [DisplayFormat(DataFormatString ="{dd-MM-yyyy}")]
         public DateTime Data { get; set; }
 
-        public ICollection<Campus> Campuses { get; set; }
+        public ICollection<Campus> Campi { get; set; }
         public ICollection<Membro> Membros { get; set; }
         public ICollection<Melhoria> Melhorias { get; set; }
         public ICollection<Meta> Metas { get; set; }

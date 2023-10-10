@@ -15,11 +15,13 @@ namespace api_cpa_ifmg.Models
         [Required]
         public string Representação { get; set; }
         [Required]
+        public Funcao Funcao { get; set; }
+        [Required]
 
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{dd-MM-yyyy}")]
         public DateTime Data_Inicio { get; set; }
-
+        [Required]
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{dd-MM-yyyy}")]
         public DateTime Data_Termino { get; set; }
