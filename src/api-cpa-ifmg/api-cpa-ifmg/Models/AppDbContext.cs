@@ -40,6 +40,7 @@ namespace api_cpa_ifmg.Models
         public DbSet<Proposta> Propostas { get; set; }
         public DbSet<Questionario> Questionarios { get; set; }
         public DbSet<CampusCurso> CampusCursos { get; set; }
+        public DbSet<Usuario> Usuarios { get; set; }
 
 
     }
