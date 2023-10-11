@@ -85,3 +85,4 @@ C:\workspace\projetoPUCMinas\Projeto_eixo5\git\pmv-sint-2023-2-e5-proj-mov-t1-cp
 C:\workspace\projetoPUCMinas\Projeto_eixo5\git\pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg\src\api-cpa-ifmg\api-cpa-ifmg\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\workspace\projetoPUCMinas\Projeto_eixo5\git\pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg\src\api-cpa-ifmg\api-cpa-ifmg\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\workspace\projetoPUCMinas\Projeto_eixo5\git\pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg\src\api-cpa-ifmg\api-cpa-ifmg\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\workspace\projetoPUCMinas\Projeto_eixo5\git\pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg\src\api-cpa-ifmg\api-cpa-ifmg\bin\Debug\net6.0\BCrypt.Net-Next.dll

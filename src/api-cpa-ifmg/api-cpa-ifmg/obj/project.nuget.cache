@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "zDVrGwiwqedvdTFaKi725dn6dMOo6kfn3lyXxoUKxZF9y+F/7Dj1rPhh5hosv1FMtGjrqe9uXShYPyLtNitebw==",
+  "dgSpecHash": "qmGZ0C6QHABorw8Rr8Y6m7JQWUzGzc/xxEILs85nPYgRrnoAeVdMG/4IMM5hIE875W/GKCyCgqcn/M7le3N2pg==",
   "success": true,
   "projectFilePath": "C:\\workspace\\projetoPUCMinas\\Projeto_eixo5\\git\\pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg\\src\\api-cpa-ifmg\\api-cpa-ifmg\\api-cpa-ifmg.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dridr\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\dridr\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\dridr\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\dridr\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\dridr\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\dridr\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

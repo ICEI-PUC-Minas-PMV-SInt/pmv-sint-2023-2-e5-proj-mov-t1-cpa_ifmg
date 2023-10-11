@@ -21,12 +21,22 @@ namespace api_cpa_ifmg.Controllers
             return Ok(model);
         }
         [HttpPost]
-        public async Task<ActionResult> Create(Usuario model)
+        public async Task<ActionResult> Create(UsuarioDto model)
         {
-            model.Senha = BCrypt.Net.BCrypt.HashPassword(model.Senha);
-            _context.Usuarios.Add(model);
+            Usuario novo = new Usuario()
+            {
+                Nome = model.Nome,
+                Senha = BCrypt.Net.BCrypt.HashPassword(model.Senha),
+                Perfil = model.Perfil,
+                Email = model.Email,
+                CPF = model.CPF,
+                CampusId=model.CampusId
+
+        };
+            
+            _context.Usuarios.Add(novo);
             await _context.SaveChangesAsync();
-            return CreatedAtAction("GetById", new { id = model.Id }, model);
+            return CreatedAtAction("GetById", new { id = novo.Id }, novo);
         }
         [HttpGet("{id}")]
         public async Task<ActionResult> GetById(int id)
@@ -37,15 +47,21 @@ namespace api_cpa_ifmg.Controllers
             return Ok(model);
         }
         [HttpPut("{id}")]
-        public async Task<ActionResult> Update(int id, Usuario model)
+        public async Task<ActionResult> Update(int id, UsuarioDto model)
         {
             if (id != model.Id) return BadRequest();
-            var modelDb = await _context.Usuarios.AsNoTracking()
+            var modeloDb = await _context.Usuarios.AsNoTracking()
                 .FirstOrDefaultAsync(c => c.Id == id);
 
-            if (modelDb == null) return NotFound();
+            if (modeloDb == null) return NotFound();
 
-            _context.Usuarios.Update(model);
+            modeloDb.Nome = model.Nome;
+            modeloDb.Senha = BCrypt.Net.BCrypt.HashPassword(model.Senha);
+            modeloDb.Perfil = model.Perfil;
+            modeloDb.Email = model.Email;
+            modeloDb.CPF = model.CPF;
+
+            _context.Usuarios.Update(modeloDb);
             await _context.SaveChangesAsync();
 
             return NoContent();

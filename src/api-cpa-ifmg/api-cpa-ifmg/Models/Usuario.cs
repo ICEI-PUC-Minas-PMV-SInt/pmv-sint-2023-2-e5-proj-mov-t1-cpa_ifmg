@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 
 namespace api_cpa_ifmg.Models
 {
@@ -17,6 +18,7 @@ namespace api_cpa_ifmg.Models
         [Required]
         public string Email { get; set; }
         [Required]
+        [JsonIgnore]
         public string Senha { get; set; }
         public int CampusId { get; set; }
         public Campus Campus { get; set; }
