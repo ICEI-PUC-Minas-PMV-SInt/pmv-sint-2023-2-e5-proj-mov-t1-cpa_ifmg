@@ -26,6 +26,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER�
 ## Esquema Relacional
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
+![MODELO MER](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/bb228df0-2d10-4dda-9ae2-14846084cc6d)
  
 As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Relacional”.
 
