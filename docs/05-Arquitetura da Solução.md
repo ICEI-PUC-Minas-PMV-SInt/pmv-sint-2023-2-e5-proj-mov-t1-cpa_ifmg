@@ -18,6 +18,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 ## Modelo ER
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
+![Conceitual_2](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/345e8448-21dd-476f-8e70-200965280d54)
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER”.
 
