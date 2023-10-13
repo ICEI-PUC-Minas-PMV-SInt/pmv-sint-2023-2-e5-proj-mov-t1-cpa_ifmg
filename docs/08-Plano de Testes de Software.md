@@ -2,6 +2,11 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
+Para o teste do software, nessa etapa, foi elaborado o plano de testes para a API Rest. Assim, para o teste, foi utilizada a classe Proposta para validação da API. A seguir tem-se o exemplo do código da classe.
+
+![Captura de tela 2023-10-13 091704](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/662022a2-7dd5-431d-8563-68f33e48bbd8)
+
+
 Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
 
 Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
