@@ -35,7 +35,9 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Rel
 
 ## Modelo Físico
 
-Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
+O arquivo bd_CPA.sql contendo os scripts de criação das tabelas do banco de dados foi incluído dentro da pasta src\bd, que pode ser a acessada através do seguinte link:
+
+https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/tree/main/src/bd
 
 ## Tecnologias Utilizadas
 
