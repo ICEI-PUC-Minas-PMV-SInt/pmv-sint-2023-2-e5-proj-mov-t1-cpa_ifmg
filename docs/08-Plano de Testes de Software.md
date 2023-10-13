@@ -39,9 +39,13 @@ Esperado: Uma nova proposta é criada e HTTP status 201.
 
 5. Teste para atualização dos dados:
 
-Entrada: {"tipo":1,
-		"situacao": 2,
-		"data": "2023-10-13"}
+Entrada: {
+	"id":6,
+	"tipo":1, 
+	"situacao": 2, 
+	"data": "2023-10-13"
+}
+
 
 Esperado: A nova proposta é atualizada e HTTP status 204.
 
