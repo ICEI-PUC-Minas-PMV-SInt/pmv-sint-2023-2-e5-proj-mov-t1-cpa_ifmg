@@ -27,7 +27,10 @@ Para o teste da API, foi utilizado o programa Insomnia. O resultado dos testes, 
 
 ## Avaliação
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+Conforme os resultados dos testes, as rotas para a criação, atualização e deleção dos dados funcionam corretamente. Porém, falta aprimorar a exigência dos campos obrigatórios. 
+
+Nesse caso, quando não se coloca o atributo, a API atribui o valor zero para o mesmo. Para que haja o erro, o atributo deve ser escrito no teste com um valor vazio. Assim, para a próxima etapa,  para visualizar a inserção dos dados no sistema, o teste será novamente validado com a integração entre o front-end e o back-end.
+
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
