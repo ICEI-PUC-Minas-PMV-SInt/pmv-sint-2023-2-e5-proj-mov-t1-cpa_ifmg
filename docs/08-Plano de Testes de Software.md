@@ -10,7 +10,7 @@ A partir dessa classe, foram elaborados os seguintes cenários de teste:
 
 1. Teste quando nenhum dado é fornecido:
 
-Entrada: {}
+Entrada: " "
 
 Esperado: {"error": "Dados não fornecidos"} e HTTP status 400
 
@@ -37,8 +37,18 @@ Entrada: {"tipo":0,
 
 Esperado: Uma nova proposta é criada e HTTP status 201.
 
+5.Teste para atualização dos dados:
 
+Entrada: {"tipo":1,
+		"situacao": 2,
+		"data": "2023-10-13"}
 
+Esperado: A nova proposta é atualizada e HTTP status 204.
+
+5.Teste para deleção dos dados:
+
+Entrada: " "
+Esperado: A proposta é deletada e HTTP status 204.
 
 
 
