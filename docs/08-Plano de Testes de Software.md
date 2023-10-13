@@ -37,7 +37,7 @@ Entrada: {"tipo":0,
 
 Esperado: Uma nova proposta é criada e HTTP status 201.
 
-5.Teste para atualização dos dados:
+5. Teste para atualização dos dados:
 
 Entrada: {"tipo":1,
 		"situacao": 2,
@@ -45,7 +45,7 @@ Entrada: {"tipo":1,
 
 Esperado: A nova proposta é atualizada e HTTP status 204.
 
-5.Teste para deleção dos dados:
+6. Teste para deleção dos dados:
 
 Entrada: " "
 Esperado: A proposta é deletada e HTTP status 204.
