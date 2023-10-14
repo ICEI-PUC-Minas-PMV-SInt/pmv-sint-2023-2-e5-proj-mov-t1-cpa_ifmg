@@ -37,8 +37,9 @@ O Modelo ER representa através de um diagrama como as entidades (coisas, objeto
 ## Esquema Relacional
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
-![MODELO MER](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/bb228df0-2d10-4dda-9ae2-14846084cc6d)
- 
+
+ ![CPA - 14-03](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/c0883b3d-767b-48c6-92fc-66babc6e9ee0)
+
 <p align = "center">Figura 4: Diagrama de Relacionamento - Modelo Lógico</p>
 
 ## Modelo Físico
