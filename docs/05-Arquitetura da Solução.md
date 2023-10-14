@@ -7,7 +7,8 @@ Definição de como o software é estruturado em termos dos componentes que faze
 ![Arquitetura da Solução](img/02-mob-arch.png)
 
 
-![Diagrama de Componentes drawio (1)](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/fc2b779e-44e0-45a6-9461-693eb29c539d)
+![Diagrama de Componentes drawio (3)](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/58a4860a-3c02-439d-a2e9-85907caab355)
+
 
 ## Diagrama de Classes
 
