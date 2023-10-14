@@ -14,7 +14,7 @@ A arquitetura da solução envolve a interface do cliente, os gerenciadores rela
 O diagrama da Figura 1 demonstra através de um diagrama de componentes a estrutura básica do software. 
 
 
-<center>![Diagrama de Componentes drawio (3)](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/58a4860a-3c02-439d-a2e9-85907caab355)</center>
+![Diagrama de Componentes drawio (3)](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/58a4860a-3c02-439d-a2e9-85907caab355)
 <center>Figura 01 - Diagrama de Componentes</center>
 
 ## Diagrama de Classes
