@@ -49,6 +49,26 @@ https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_if
 
 ## Tecnologias Utilizadas
 
+
+As ferramentas que serão utilizadas no desenvolvimento de software são:
+
+Desenho de protótipo: Figma
+Desenvolvimento front-end e back-end: Visual Studio Code, html, css, java script;
+Modelagem de Dados: MySQL e BR Modelo Web;
+Hoespedagem: Heroku;
+Comunicação equipe: Whatsapp, Microsoft Teams;
+Versionamento de Código: Git e Github;
+Planejamento: Medologia Scrum, Quadro Kanban.
+
+O sistema segue a estrutura de interação apresentada na Figura 5 a seguir:
+<div align="center">
+ 
+<img width="289" alt="Estrutura de Interação" src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/747110c0-c28f-4a6c-927d-35852ae3433c">
+
+</div>
+<p align = "center">Figura 5- Estrutura de Interação</p>
+
+
 Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
 
 Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
