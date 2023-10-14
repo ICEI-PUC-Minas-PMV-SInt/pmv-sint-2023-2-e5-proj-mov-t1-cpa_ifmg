@@ -53,13 +53,16 @@ https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_if
 
 As ferramentas que serão utilizadas no desenvolvimento de software são:
 
-Desenho de protótipo: Figma
-Desenvolvimento front-end e back-end: Visual Studio Code, html, css, java script;
-Modelagem de Dados: MySQL e BR Modelo Web;
-Hoespedagem: Heroku;
-Comunicação equipe: Whatsapp, Microsoft Teams;
-Versionamento de Código: Git e Github;
-Planejamento: Medologia Scrum, Quadro Kanban.
+- Projeto Gráfico e Prototipação: Figma
+- Desenvolvimento front-end e back-end: Visual Studio Code, React Native, html, css, java script;
+- Desenvolvimento API: Visual Studio e ASP.NET
+- Banco de Dados: SQL Server Entity Framework
+- Modelagem de Dados: Draw.io (Diagrama de Componentes), Astah (Diagrama de Classes), Br Modelo (Modelo Conceitual),  MySQL Workbench (Modelo Lógico) e MySQL Server (Modelo Físico) ;
+- Hospedagem (em definição): Heroku, Azure;
+- Comunicação equipe: Whatsapp, Microsoft Teams;
+- Versionamento de Código: Git e Github;
+- Planejamento: Metodologia Scrum, Quadro Kanban, Trello, Bizagi.
+
 
 O sistema segue a estrutura de interação apresentada na Figura 5 a seguir:
 <div align="center">
