@@ -2,9 +2,16 @@
 
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
 
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
+A arquitetura da solução envolve a interface do cliente, os gerenciadores relacionados com a solução do negócio e com os bancos de dados. Nesse sentido, a projeto para criação de uma aplicação para avaliação institucional do IFMG possui a seguinte estrutura:
+ 
+- Interface de Usuário: Se refere à tela inicial para login e acesso dos usuários que responderão ao questionário de avaliação institucional.
+- Interface de Membros: Se refere à página web para que os membros das CPA’s façam login e acessem o sistema. A partir dessa interface, os membros produzem artefatos relativos à análise dos dados obtidos na avaliação institucional. 
+- Sistema de Gerenciamento de Login - Realiza a verificação dos dados de login realizados pelos usuários. Também permite a recuperação e criação de nova senha de usuário. 
+- Sistema Gerenciamento de Questionário - Esse sistema permite o cadastro de questionário e seus respectivos prazos. Além disso, é o sistema responsável por coletar as respostas dadas pelos usuários para cada um dos indicadores da avaliação institucional.  
+- Sistema de Gerenciamento de Proposta - é responsável pela criação de propostas pelas CPA’s que englobam: Atualização de membros, inclusão de propostas de melhorias, criação de cronograma de atividades para o próximo ano e elaboração de metas e ações das CPAs.  
+- Sistema de Gerenciamento de Banco de Dados - Esse sistema gerencia os bancos de dados relativos ao projeto, tais como: Usuários, Membros, Curso, Campus, Melhorias, Metas e Ações, Cronograma, Resposta, Indicadores, Dimensões, Eixo e Questionário. 
 
-![Arquitetura da Solução](img/02-mob-arch.png)
+O diagrama da Figura 1 demonstra a estrutura de componentes do sistema. 
 
 
 ![Diagrama de Componentes drawio (3)](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/58a4860a-3c02-439d-a2e9-85907caab355)
