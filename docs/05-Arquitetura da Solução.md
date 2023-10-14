@@ -11,11 +11,15 @@ A arquitetura da solução envolve a interface do cliente, os gerenciadores rela
 - Sistema de Gerenciamento de Proposta - é responsável pela criação de propostas pelas CPA’s que englobam: Atualização de membros, inclusão de propostas de melhorias, criação de cronograma de atividades para o próximo ano e elaboração de metas e ações das CPAs.  
 - Sistema de Gerenciamento de Banco de Dados - Esse sistema gerencia os bancos de dados relativos ao projeto, tais como: Usuários, Membros, Curso, Campus, Melhorias, Metas e Ações, Cronograma, Resposta, Indicadores, Dimensões, Eixo e Questionário. 
 
-O diagrama da Figura 1 demonstra através de um diagrama de componentes a estrutura básica do software. 
+A Figura 1 demonstra através de um diagrama de componentes a estrutura básica do software. 
 
 
+<div align="center">
+ 
 ![Diagrama de Componentes drawio (3)](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/58a4860a-3c02-439d-a2e9-85907caab355)
-<center>Figura 01 - Diagrama de Componentes</center>
+
+</div>
+<p align = "center">Figura 1: Diagrama de Componentes</p>
 
 ## Diagrama de Classes
 
