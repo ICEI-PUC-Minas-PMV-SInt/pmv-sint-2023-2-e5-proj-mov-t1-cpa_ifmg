@@ -26,12 +26,12 @@ A Figura 1 demonstra através de um diagrama de componentes a estrutura básica 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
 ![Diagrama de Classe](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/011acda2-c3ce-48c1-80c1-18293c8fd67d)
-
+<p align = "center">Figura 2: Diagrama de Classe</p>
 ## Modelo ER
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
 ![Conceitual_2](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/345e8448-21dd-476f-8e70-200965280d54)
-<p align = "center">Figura 2: Diagrama de Relacionamento - Modelo Conceitual</p>
+<p align = "center">Figura 3: Diagrama de Relacionamento - Modelo Conceitual</p>
 
 
 ## Esquema Relacional
@@ -39,7 +39,7 @@ O Modelo ER representa através de um diagrama como as entidades (coisas, objeto
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
 ![MODELO MER](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/bb228df0-2d10-4dda-9ae2-14846084cc6d)
  
-<p align = "center">Figura 3: Diagrama de Relacionamento - Modelo Lógico</p>
+<p align = "center">Figura 4: Diagrama de Relacionamento - Modelo Lógico</p>
 
 ## Modelo Físico
 
