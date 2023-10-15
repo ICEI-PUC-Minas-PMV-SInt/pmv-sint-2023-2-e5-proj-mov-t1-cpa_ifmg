@@ -15,7 +15,24 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+<div align="center">
+ 
+ ![Autenticação drawio (2)](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/4f4dc51b-7144-4c5a-b173-66f632be7474)
+
+</div>
+
+
+<div align="center">
+ 
+ ![Menu Principal drawio](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/14d21045-a679-4609-afff-a56283a8559e)
+
+</div>
+
+
+
+
+
+
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
