@@ -27,6 +27,7 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 
 ![Diagrama de Classe](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/011acda2-c3ce-48c1-80c1-18293c8fd67d)
 <p align = "center">Figura 2: Diagrama de Classe</p>
+
 ## Modelo ER
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
