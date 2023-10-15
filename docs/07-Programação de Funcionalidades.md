@@ -12,19 +12,19 @@ Na elaboração do projeto para esta etapa, a aplicação web da CPA IFMG será 
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
+|ID    | Descrição do Requisito  | Nome da Tela |
 |------|-----------------------------------------|----|
-|RF-001| O sistema deve permitir o cadastro de novos usuários. | ALTA |
-|RF-002| O sistema deve permitir a autenticação de usuário. | ALTA | 
-|RF-003| O sistema deve permitir a recuperação de senhas.| ALTA |
-|RF-004| Permitir que o usuário cadastre as metas e ações.| ALTA |
-|RF-005| Permitir que o usuário cadastre as questões.| ALTA |
-|RF-006| Disponibilizar o questionário de autoavaliação.| ALTA |
-|RF-007| Permitir que o usuário responda o questionário de autoavaliação de acordo com seu perfil.| ALTA |
-|RF-008| Restringir o envio de um questionário por usuário.|ALTA|
-|RF-009| Enviar notificações ao usuário.| MÉDIA |
-|RF-010| Disponibilizar resultados do questionário de autoavaliação.|MÉDIA|
-|RF-011| Permitir o cadastro do cronograma da avaliação.|MÉDIA|
+|RF-001| O sistema deve permitir o cadastro de novos usuários. | Login|
+|RF-002| O sistema deve permitir a autenticação de usuário. | Login| 
+|RF-003| O sistema deve permitir a recuperação de senhas.| Login |
+|RF-004| Permitir que o usuário cadastre as metas e ações.| Cadastro de Metas e Ações |
+|RF-005| Permitir que o usuário cadastre as questões.| Cadastro Indicadores |
+|RF-006| Disponibilizar o questionário de autoavaliação.| Cadastro Questionário |
+|RF-007| Permitir que o usuário responda o questionário de autoavaliação de acordo com seu perfil.| Resposta Questionário|
+|RF-008| Restringir o envio de um questionário por usuário.|Resposta Questionário|
+|RF-009| Enviar notificações ao usuário.| Cadastro Questionário |
+|RF-010| Disponibilizar resultados do questionário de autoavaliação.|Resultados|
+|RF-011| Permitir o cadastro do cronograma da avaliação.|Cadastro Cronograma|
 
 ### Requisitos não Funcionais
 
