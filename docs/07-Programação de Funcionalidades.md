@@ -40,15 +40,6 @@ Na elaboração do projeto para esta etapa, a aplicação web da CPA IFMG será 
 |RNF-008| O sistema deve conter mensagens que informem erros de utilização.|BAIXA|
 |RNF-009| Deve processar requisições do usuário em no máximo 3s. |  BAIXA |
 
-## Restrições
-
-O projeto está restrito pelos itens apresentados na tabela a seguir.
-
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| O front-end deverá ser desenvolvido em react-native.|
-|03| Deverá se comunicar com o módulo back-end por meio de uma API.|
 
 
 > **Links Úteis**:
