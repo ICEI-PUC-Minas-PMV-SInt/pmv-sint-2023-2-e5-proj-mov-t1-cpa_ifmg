@@ -50,7 +50,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 <div align="center">
  
- ![CPA TELAS-Questionário drawio](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/d1024ba7-57ce-4e70-95d2-74de26e967ed)
+![CPA TELAS-Questionário drawio](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/735ac797-b7dd-4841-8c55-c9d7dc18db34)
 
 </div>
 
