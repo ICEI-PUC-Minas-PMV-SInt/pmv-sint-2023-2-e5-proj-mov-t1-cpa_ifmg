@@ -49,6 +49,7 @@ Na elaboração do projeto para esta etapa, a aplicação web da CPA IFMG será 
 
 **|RF-003| O sistema deve permitir a recuperação de senhas.**
 
+**|RNF-003| O sistema deve exigir autenticação prévia de usuários.**
 
     ﻿using api_cpa_ifmg.Models;
     using Microsoft.AspNetCore.Http;
