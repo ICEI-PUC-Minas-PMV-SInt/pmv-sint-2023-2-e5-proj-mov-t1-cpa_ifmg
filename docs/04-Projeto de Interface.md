@@ -29,10 +29,30 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 </div>
 
 
+<div align="center">
+
+![CPA TELAS-Consultar Proposta drawio (1)](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/4d28b093-dbe3-4d76-8208-20d24091fd5d)
+
+</div>
 
 
+<div align="center">
+ 
+![CPA TELAS-Nova Proposta drawio (1)](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/5b355ad8-5a69-4765-929b-e49632842d0e)
 
+</div>
 
+<div align="center">
+
+ ![CPA TELAS-Monitoramento drawio](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/c36bf310-ecc4-4400-bcaa-d4a434859326)
+
+</div>
+
+<div align="center">
+ 
+ ![CPA TELAS-Questionário drawio](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/d1024ba7-57ce-4e70-95d2-74de26e967ed)
+
+</div>
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
