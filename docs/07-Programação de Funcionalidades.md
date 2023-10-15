@@ -42,14 +42,11 @@ https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_if
 A seguir apresentamos exemplos dos requsitos atendidos, bem como seus respectivos códigos.
 
 # Login
+Na camada Controller, que será responsável pelo gerenciamento das requisições do sistema, temos a classe UsuariosController.cs. Nela está inserido para permitir o cadastro de novo usuário. Nele é criada uma senha, que está protegida por uma função hash, garantindo assim a segurança dos dados.
 
 **|RF-001| O sistema deve permitir o cadastro de novos usuários.**
 
-**|RF-002| O sistema deve permitir a autenticação de usuário.**
 
-**|RF-003| O sistema deve permitir a recuperação de senhas.**
-
-**|RNF-003| O sistema deve exigir autenticação prévia de usuários.**
 
     ﻿using api_cpa_ifmg.Models;
     using Microsoft.AspNetCore.Http;
