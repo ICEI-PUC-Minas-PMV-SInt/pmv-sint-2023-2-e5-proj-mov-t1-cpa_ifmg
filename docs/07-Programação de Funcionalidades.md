@@ -133,7 +133,7 @@ Na elaboração do projeto para esta etapa, a aplicação web da CPA IFMG será 
 
 # Cadastro de Metas e Ações
 
-**|RF-004| Permitir que o usuário cadastre as metas e ações.
+**|RF-004| Permitir que o usuário cadastre as metas e ações.**
 
 
     using api_cpa_ifmg.Models;
