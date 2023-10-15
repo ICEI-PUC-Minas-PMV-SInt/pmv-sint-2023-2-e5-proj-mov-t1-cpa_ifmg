@@ -11,5 +11,5 @@ O layout padrão da aplicação utiliza como referência o Manual de Identidade 
 |`preto`|<ul><li>`R0 G0 B0`</li><li>`HEX #000000`</li><li>`C0 M0 Y0 k100`</li><li>`PANTONE Process Black C`</li></ul>|![PRETO](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/2a45bf2a-d31b-47b1-b473-411cf068ae74)|
 
 
-A marca também possui a possibilidade de aplicações monocromáticas e em escala de cinza. Na versão monocromática todos os elementos da marca têm a mesma cor chapada (sem retícula)
+A marca também possui a possibilidade de aplicações monocromáticas e em escala de cinza. Na versão monocromática todos os elementos da marca têm a mesma cor chapada (sem retícula). Além disso, em fundos escuros (próximos ao preto), é permitido alterar a cor preta do texto pela cor branca. Em fundos com cores institucionais (vermelho e verde) pode ser usada a marca monocromática branca. 
 
