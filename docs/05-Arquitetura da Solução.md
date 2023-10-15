@@ -71,7 +71,7 @@ O sistema segue a estrutura de interação apresentada na Figura 5 a seguir:
 <img width="500" alt="Estrutura de Interação" src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/747110c0-c28f-4a6c-927d-35852ae3433c">
 
 </div>
-<p align = "center">Figura 5- Estrutura de Interação</p>
+<p align = "center">Figura 5: Estrutura de Interação</p>
 
 
 ## Hospedagem
@@ -93,6 +93,10 @@ No contexto de desenvolvimento de software, qualidade pode ser entendida como um
 
 A norma internacional ISO/IEC 25010, que é uma atualização da ISO/IEC 9126, define oito características e 30 subcaracterísticas de qualidade para produtos de software.
 Com base nessas características e nas respectivas sub-características, identifique as sub-características que sua equipe utilizará como base para nortear o desenvolvimento do projeto de software considerando-se alguns aspectos simples de qualidade. Justifique as subcaracterísticas escolhidas pelo time e elenque as métricas que permitirão a equipe avaliar os objetos de interesse.
-
+<div align="center">
+ 
 ![25010](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/30b6d6b2-c48d-49a2-b452-ce8b5bf83cdc)
 
+</div>
+
+<p align = "center">Figura 6: Características e subcaracterísticas do Modelo de qualidade de produto de software. SANTOS, Simone Vidal, 2019. Adaptado da ABNT ISO/IEC 25010 (2011) </p> 
