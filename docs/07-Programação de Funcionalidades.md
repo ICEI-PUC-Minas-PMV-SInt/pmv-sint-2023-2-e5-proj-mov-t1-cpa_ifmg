@@ -39,6 +39,8 @@ O atendimento dos requisitos apresentados acima pode ser verificados através do
 /api-cpa-ifmg/ que pode ser acessada em: 
 https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/tree/main/src/api-cpa-ifmg/api-cpa-ifmg
 
+A seguir apresentamos exemplos dos requsitos atendidos, bem como seus respectivos códigos.
+
 # Login
 
 **|RF-001| O sistema deve permitir o cadastro de novos usuários.**
