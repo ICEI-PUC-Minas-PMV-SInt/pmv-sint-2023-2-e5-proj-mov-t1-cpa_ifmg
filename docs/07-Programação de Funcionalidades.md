@@ -135,9 +135,11 @@ Na camada Controller, que será responsável pelo gerenciamento das requisiçõe
 
 # Metas
 
+Na camada Controller, a classe MetasController.cs permite a criaçã e a exclusão de metas. 
+
 **|RF-004| Permitir que o usuário cadastre as metas e ações.**
 
-Na camada Controller, a classe MetasController.cs permite a criaçã e a exclusão de metas. 
+
 
     using api_cpa_ifmg.Models;
     using Microsoft.AspNetCore.Http;
@@ -207,6 +209,8 @@ Na camada Controller, a classe MetasController.cs permite a criaçã e a exclus�
     }
 
 # Indicadores
+
+Na camada Controller, a classe IndicadoresController permite a criação e a exclusão de questões, que são consideradas como indicadores nas avaliações institucionais do IFMG. 
 
 **|RF-005| Permitir que o usuário cadastre as questões.**
 
