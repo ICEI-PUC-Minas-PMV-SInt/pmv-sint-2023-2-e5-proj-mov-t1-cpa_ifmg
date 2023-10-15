@@ -13,3 +13,20 @@ O layout padrão da aplicação utiliza como referência o Manual de Identidade 
 
 A marca também possui a possibilidade de aplicações monocromáticas e em escala de cinza. Na versão monocromática todos os elementos da marca têm a mesma cor chapada (sem retícula). Além disso, em fundos escuros (próximos ao preto), é permitido alterar a cor preta do texto pela cor branca. Em fundos com cores institucionais (vermelho e verde) pode ser usada a marca monocromática branca. 
 
+##Fontes
+
+A família tipográfica utilizada no projeto segue a seguinte tabela: 
+
+
+|Referência|Letra| Estilo| Tamanho|   
+|----|----|---------|---------|
+|Título de tela| Roboto| Normal|20|
+|Letra Botões| Roboto| Normal|12|
+|Nomes de campos| Roboto| Normal|12|
+|Títulos Questionário| Roboto| Normal|15|
+|Perguntas Questionário| Roboto| Normal|15|
+|Alternativas Questionário| Roboto| Normal|15|
+|Títulos Tabela| Roboto| Semi Bold|9|
+|Corpo Tabela| Roboto| Semi Bold|9|
+
+
