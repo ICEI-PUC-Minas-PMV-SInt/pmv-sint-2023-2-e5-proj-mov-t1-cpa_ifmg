@@ -23,17 +23,17 @@ Na elaboração do projeto para esta etapa, a aplicação web da CPA IFMG será 
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve funcionar 24 horas por dia, todos os dias da semana. |ALTA|
-|RNF-002| O sistema deve possuir suporte a dispositivos IOS e Android. |ALTA| 
-|RNF-003| O sistema deve exigir autenticação prévia de usuários.|ALTA|
-|RNF-004| O sistema não deverá apresentar dados de cunho privado aos usuários.|ALTA|
-|RNF-005| O sistema deve ser responsivo para rodar em dispositivos móveis.| MÉDIA |
-|RNF-006| O sistema deve ter boa usabilidade.|MÉDIA|
-|RNF-007| O sistema deve recuperar de uma falha no processador em até 1s.|MÉDIA|
-|RNF-008| O sistema deve conter mensagens que informem erros de utilização.|BAIXA|
-|RNF-009| Deve processar requisições do usuário em no máximo 3s. |  BAIXA |
+|ID     | Descrição do Requisito  |
+|-------|-------------------------|
+|RNF-001| O sistema deve funcionar 24 horas por dia, todos os dias da semana. |
+|RNF-002| O sistema deve possuir suporte a dispositivos IOS e Android. |
+|RNF-003| O sistema deve exigir autenticação prévia de usuários.|
+|RNF-004| O sistema não deverá apresentar dados de cunho privado aos usuários.|
+|RNF-005| O sistema deve ser responsivo para rodar em dispositivos móveis.|
+|RNF-006| O sistema deve ter boa usabilidade.|
+|RNF-007| O sistema deve recuperar de uma falha no processador em até 1s.|
+|RNF-008| O sistema deve conter mensagens que informem erros de utilização.|
+|RNF-009| Deve processar requisições do usuário em no máximo 3s. |
 
 
 # Login
