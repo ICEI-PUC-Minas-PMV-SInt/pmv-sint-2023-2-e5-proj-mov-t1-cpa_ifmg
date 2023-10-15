@@ -1,8 +1,12 @@
 
 # Projeto de Interface
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
+O projeto de interface teve como objetivo realizar a criação de telas que atendessem aos os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+
+Nele foram apresentadas telas para realização de cadastro de usuário, autenticação, cadastro de questionário, coleta de respostas, cadastro de propostas contendo: cronograma, metas, membros CPA, propostas de melhoria. 
+
+Isso tem por objetivo atender aos três fluxos principais apresentados no diagrama abaixo. O primeiro se refere ao trabalho executado pelos membros da CPA Central como, por exemplo, o cadastro de questionário. O segundo fluxo tem relação com o trabalho executado pelos membros das CPA’s Locais como, por exemplo, o cadastro de propostas elaboradas a partir dos dados coletados nas avaliações institucionais. O terceiro fluxo está relacionado com os participantes da avaliação institucional e com as respostas aos questionários. 
 
 
 ## Diagrama de Fluxo
