@@ -91,8 +91,8 @@ Conceituar qualidade de fato é uma tarefa complexa, mas ela pode ser vista como
 
 No contexto de desenvolvimento de software, qualidade pode ser entendida como um conjunto de características a serem satisfeitas, de modo que o produto de software atenda às necessidades de seus usuários. Entretanto, tal nível de satisfação nem sempre é alcançado de forma espontânea, devendo ser continuamente construído. Assim, a qualidade do produto depende fortemente do seu respectivo processo de desenvolvimento.
 
-A norma internacional ISO/IEC 25010, que é uma atualização da ISO/IEC 9126, define oito características e 30 subcaracterísticas de qualidade para produtos de software.
-Com base nessas características e nas respectivas sub-características, identifique as sub-características que sua equipe utilizará como base para nortear o desenvolvimento do projeto de software considerando-se alguns aspectos simples de qualidade. Justifique as subcaracterísticas escolhidas pelo time e elenque as métricas que permitirão a equipe avaliar os objetos de interesse.
+A norma internacional ISO/IEC 25010, que é uma atualização da ISO/IEC 9126, define oito características e 30 subcaracterísticas de qualidade para produtos de software. As características e subcaracterísticas do modelo de qualidade de produto de software pode ser verificadas na figura 6.
+
 <div align="center">
  
 ![25010](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/30b6d6b2-c48d-49a2-b452-ce8b5bf83cdc)
@@ -100,3 +100,16 @@ Com base nessas características e nas respectivas sub-características, identif
 </div>
 
 <p align = "center">Figura 6: Características e subcaracterísticas do Modelo de qualidade de produto de software. SANTOS, Simone Vidal, 2019. Adaptado da ABNT ISO/IEC 25010 (2011) </p> 
+
+
+Com base nessas características e nas respectivas sub-características, o projeto da CPA IFMG se norteará pelas subcaracterísticas:
+
+- Autenticação e Integridade - Justificativa: Um dos atuais problemas da CPA é o fato de um mesmo usuário poder realizar a avaliação por mais de uma vez. Com isso, pretende-se melhorar esse aspecto valorizando a autenticação e integridade no desenvolvimento do projeto. 
+
+- Estética de interface do usuário e Operabilidade - Justificativa: O uso dessas características pode aumentar a participação do público alvo nas avaliações institucionais, tendo em vista a facilidade de uso pelos usuários. Vale destacar que atualmente a baixa participação também representa um dos principais problemas enfrentados pela CPA. 
+
+- Correção e aptidão funcional . Justificativa: Espera-se que o sistema atenda com precisão aos requisitos necessários para o bom desempenho das atividades da CPA. 
+
+Para a verificação do atendimento da subcaracterísticas elencadas, a equipe pretende aplicar testes junto aos clientes (usuários e membros da CPA) para avaliar a assertividade, a facilidade e o tempo para realização de operações no sistema. Também serão aplicados testes para que os usuários tentem realizar operações não permitidas, tais como: acessar o sistema sem cadastro ou senha correta, tentar responder o mesmo questionário mais de uma vez.  
+
+
