@@ -137,6 +137,7 @@ Na camada Controller, que será responsável pelo gerenciamento das requisiçõe
 
 **|RF-004| Permitir que o usuário cadastre as metas e ações.**
 
+Na camada Controller, a classe MetasController.cs permite a criaçã e a exclusão de metas. 
 
     using api_cpa_ifmg.Models;
     using Microsoft.AspNetCore.Http;
