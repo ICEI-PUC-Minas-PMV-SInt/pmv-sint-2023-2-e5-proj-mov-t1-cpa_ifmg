@@ -39,3 +39,6 @@ O projeto utiliza principalmente os ícones das figuras abaixo:
 
 
 ## Exemplos de Telas
+
+![CPA TELAS-Página-7 drawio](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/60df4eba-338c-4fe0-a605-4b366ba8d652)
+
