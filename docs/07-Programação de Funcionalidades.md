@@ -44,7 +44,9 @@ Na elaboração do projeto para esta etapa, a aplicação web da CPA IFMG será 
 # Login
 
 **|RF-001| O sistema deve permitir o cadastro de novos usuários.**
-**|RF-002| O sistema deve permitir a autenticação de usuário. **
+
+**|RF-002| O sistema deve permitir a autenticação de usuário.**
+
 **|RF-003| O sistema deve permitir a recuperação de senhas.**
 
 
