@@ -36,7 +36,7 @@ Para o presente projeto foram definidos os seguintes requisitos funcionais e nã
 |RNF-008| O sistema deve conter mensagens que informem erros de utilização.|
 |RNF-009| Deve processar requisições do usuário em no máximo 3s. |
 
-O atendimento dos requisitos apresentados acima pode ser verificados através dos códigos salvos na pasta src/api-cpa-ifmg
+O atendimento dos requisitos apresentados acima pode ser verificado através dos códigos salvos na pasta src/api-cpa-ifmg
 /api-cpa-ifmg/ que pode ser acessada em: 
 https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/tree/main/src/api-cpa-ifmg/api-cpa-ifmg
 
