@@ -34,7 +34,8 @@ A família tipográfica utilizada no projeto segue a seguinte tabela:
 
 O projeto utiliza principalmente os ícones das figuras abaixo: 
 
-![CPA TELAS-Ícones drawio (1)](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/11f7717c-a59b-40fc-b574-681d0516abdf)
+![CPA TELAS-Ícones drawio](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/701f4ed9-219c-40bd-8426-61c823aa69e3)
+
 
 
 ## Exemplos de Telas
