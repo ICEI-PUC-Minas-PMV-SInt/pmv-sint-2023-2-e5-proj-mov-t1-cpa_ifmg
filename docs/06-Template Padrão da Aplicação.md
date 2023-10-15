@@ -30,3 +30,11 @@ A família tipográfica utilizada no projeto segue a seguinte tabela:
 |Corpo Tabela| Roboto| Semi Bold|9|
 
 
+## Iconografia 
+
+O projeto utiliza principalmente os ícones das figuras abaixo: 
+
+![CPA TELAS-Ícones drawio (1)](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/11f7717c-a59b-40fc-b574-681d0516abdf)
+
+
+## Exemplos de Telas
