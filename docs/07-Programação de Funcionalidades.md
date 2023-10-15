@@ -12,7 +12,7 @@ Na elaboração do projeto para esta etapa, a aplicação web da CPA IFMG será 
 |RF-001| O sistema deve permitir o cadastro de novos usuários. | Login|
 |RF-002| O sistema deve permitir a autenticação de usuário. | Login| 
 |RF-003| O sistema deve permitir a recuperação de senhas.| Login |
-|RF-004| Permitir que o usuário cadastre as metas e ações.| Cadastro de Metas e Ações |
+|RF-004| Permitir que o usuário cadastre as metas e ações.| Metas |
 |RF-005| Permitir que o usuário cadastre as questões.| Indicadores |
 |RF-006| Disponibilizar o questionário de autoavaliação.| Questionário |
 |RF-007| Permitir que o usuário responda o questionário de autoavaliação de acordo com seu perfil.| Questionário|
