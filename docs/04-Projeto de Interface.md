@@ -1,39 +1,65 @@
 
 # Projeto de Interface
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
+O projeto de interface teve como objetivo realizar a criação de telas que atendessem aos os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
 
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+Nele foram apresentadas telas para realização de cadastro de usuário, autenticação, cadastro de questionário, coleta de respostas, cadastro de propostas contendo: cronograma, metas, membros CPA, propostas de melhoria. 
+
+Isso tem por objetivo atender aos três fluxos principais apresentados no diagrama abaixo. O primeiro se refere ao trabalho executado pelos membros da CPA Central como, por exemplo, o cadastro de questionário. O segundo fluxo tem relação com o trabalho executado pelos membros das CPA’s Locais como, por exemplo, o cadastro de propostas elaboradas a partir dos dados coletados nas avaliações institucionais. O terceiro fluxo está relacionado com os participantes da avaliação institucional e com as respostas aos questionários. 
+
 
 ## Diagrama de Fluxo
 
 ![diagrama de fluxo](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/84e57fd2-77b1-45ac-8e73-f004f56bc7f1)
 
 
-O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
-
-O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como editar, pesquisar, filtrar, configurar - e a conexão entre esses boxes a partir do processo de interação. Você pode ver mais explicações e exemplos https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram.
-
-![Exemplo de Diagrama de Fluxo](img/diagramafluxo2.jpg)
-
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
-
-> **Links Úteis**:
-> - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
-
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+<div align="center">
  
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+ ![Autenticação drawio (2)](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/4f4dc51b-7144-4c5a-b173-66f632be7474)
+
+</div>
+
+
+<div align="center">
+ 
+ ![Menu Principal drawio](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/14d21045-a679-4609-afff-a56283a8559e)
+
+</div>
+
+
+<div align="center">
+
+![CPA TELAS-Consultar Proposta drawio (1)](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/4d28b093-dbe3-4d76-8208-20d24091fd5d)
+
+</div>
+
+
+<div align="center">
+ 
+![CPA TELAS-Nova Proposta drawio (1)](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/5b355ad8-5a69-4765-929b-e49632842d0e)
+
+</div>
+
+<div align="center">
+
+ ![CPA TELAS-Monitoramento drawio](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/c36bf310-ecc4-4400-bcaa-d4a434859326)
+
+</div>
+
+<div align="center">
+ 
+![CPA TELAS-Questionário drawio](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/735ac797-b7dd-4841-8c55-c9d7dc18db34)
+
+</div>
+
+
+<div align="center">
+ 
+ ![CPA TELAS-Av  Institucional drawio (1)](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/8d33a413-df5d-472b-a266-feeb794d0ef5)
+
+</div>
+

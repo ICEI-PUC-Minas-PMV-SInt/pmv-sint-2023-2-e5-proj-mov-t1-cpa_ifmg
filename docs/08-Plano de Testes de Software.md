@@ -2,18 +2,57 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+Para o teste do software, nessa etapa, foi elaborado o plano de testes do tipo caixa-branca para a API Rest. Assim, para o teste, foi utilizada a classe Proposta para validação da API. A seguir tem-se o exemplo do código da classe.
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
- 
-## Ferramentas de Testes (Opcional)
+![Captura de tela 2023-10-13 091704](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/89482697/662022a2-7dd5-431d-8563-68f33e48bbd8)
 
-Comente sobre as ferramentas de testes utilizadas.
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+A partir dessa classe, foram elaborados os seguintes cenários de teste:
+
+1. Teste quando nenhum dado é fornecido:
+
+Entrada: " "
+
+Esperado: {"error": "Dados não fornecidos"} e HTTP status 400
+
+2. Teste quando algum dado obrigatório (Required) não é fornecido:
+
+Entrada: {"tipo": 1,
+		"data": "2023-10-09",}
+
+Esperado: {"error": "Situação é obrigatorio"} e HTTP status 400
+
+3. Teste quando os tipos de dados são inválidos:
+
+Entrada: {"tipo":"cadastromembros",
+		"situacao": 2,
+		"data": "2023-10-09"}
+  
+Esperado: {"error": "Ocorreram um ou mais erros de validação."} e HTTP status 400
+
+4. Teste para entrada válida:
+
+Entrada: {"tipo":0,
+		"situacao": 2,
+		"data": "2023-10-09"}
+
+Esperado: Uma nova proposta é criada e HTTP status 201.
+
+5. Teste para atualização dos dados:
+
+Entrada: {
+	"id":6,
+	"tipo":1, 
+	"situacao": 2, 
+	"data": "2023-10-13"
+}
+
+
+Esperado: A nova proposta é atualizada e HTTP status 204.
+
+6. Teste para deleção dos dados:
+
+Entrada: " "
+Esperado: A proposta é deletada e HTTP status 204.
+
+
+
