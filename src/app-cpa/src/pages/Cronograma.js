@@ -66,7 +66,7 @@ const Cronograma = () => {
       </DataTable>
     
       <CustomButton text={'Próximo'} color={'#2f9e41'}/>
-      <CustomButton text={'Voltar'} color={'#cd191e'}/>
+      <CustomButton text={'Voltar'} color={'#cd191e'} onPress={()=> navigation.navigate('Inicio')}/>
       
       </Body>
     </Container>

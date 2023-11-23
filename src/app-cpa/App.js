@@ -1,16 +1,12 @@
-import React,{useState} from 'react';
+import React, { useState } from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import Main from './src/navigations/Main';
 
 const App = () => {
-  return(
+  return (
     <NavigationContainer>
-      <Main/>
+      <Main />
     </NavigationContainer>
-    
-  )
-  
-  
-  
+  );
 };
 export default App;

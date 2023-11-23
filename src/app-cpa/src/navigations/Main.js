@@ -11,6 +11,10 @@ import CadastrarMembros from '../pages/CadastrarMembros';
 import CadastrarMetas from '../pages/CadastrarMetas';
 import Proposta from '../pages/Proposta';
 import Melhoria from '../pages/Melhoria';
+import Cronograma from '../pages/Cronograma';
+import Cursos from '../pages/Cursos';
+import Membros from '../pages/Membros';
+import Metas from '../pages/Metas';
 
 const Stack = createNativeStackNavigator();
 
@@ -36,12 +40,36 @@ const Main=()=>{
           header:()=>null
         }} 
         />
+        <Stack.Screen name="Cronograma" 
+        component={Cronograma}
+        options={{
+          header:()=>null
+        }} 
+        />
         <Stack.Screen name="Melhoria" 
         component={Melhoria}
         options={{
           header:()=>null
         }} 
-        />            
+        />
+        <Stack.Screen name="Cursos" 
+        component={Cursos}
+        options={{
+          header:()=>null
+        }} 
+        /> 
+        <Stack.Screen name="Membros" 
+        component={Membros}
+        options={{
+          header:()=>null
+        }} 
+        /> 
+        <Stack.Screen name="Metas" 
+        component={Metas}
+        options={{
+          header:()=>null
+        }} 
+        />                      
         <Stack.Screen name="CadastrarMelhoria" 
         component={CadastrarMelhoria}
         options={{

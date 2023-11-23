@@ -1,5 +1,5 @@
 import React,{useState} from 'react';
-import { BottomNavigation, Menu } from 'react-native-paper';
+import { BottomNavigation} from 'react-native-paper';
 import { View } from 'react-native';
 
 import Cursos from './Cursos';
@@ -8,7 +8,7 @@ import Melhoria from './Melhoria';
 import Cronograma from './Cronograma';
 import Membros from './Membros';
 import Metas from './Metas';
-
+import Inicio from './Inicio';
 
 const Home = () => {
   const [index, setIndex] = useState(0);
@@ -18,7 +18,8 @@ const Home = () => {
     { key: 'cronograma', title: 'Cronograma', icon:'calendar-check-outline'},
     { key: 'cursos', title: 'Cursos', icon:'file-certificate-outline'},
     { key: 'membros', title: 'Membros', icon:'account-group'},
-    { key: 'metas', title: 'Metas', icon:'target'}
+    { key: 'metas', title: 'Metas', icon:'target'},
+    { key: 'inicio', title: 'Inicio', icon:'target'}
     
   ]);
 
@@ -29,6 +30,7 @@ const Home = () => {
     cursos:Cursos,
     membros:Membros,
     metas:Metas,
+    inicio:Inicio
     
   });
   

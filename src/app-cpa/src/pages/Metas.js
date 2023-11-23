@@ -11,58 +11,62 @@ import {useNavigation} from '@react-navigation/native';
 
 
 
-const Cursos = () => {
+const Metas = () => {
   const navigation=useNavigation();
   const handleButtonPress = () => {
-    navigation.navigate("CadastrarCursos");
+    navigation.navigate("CadastrarMetas");
   };
 
   const [items] = React.useState([
    {
      key: 1,     
-     atuacao: 'Engenharias',
-     eixo: ' ',
-     nome:'Engenharia Elétrica',
-     nivel: 'Bacharelado',
+     meta: 'teste',
+     atividade:'teste',
+     prazo: 'teste',
+     responsavel: 'teste',
+     
    },
    {
      key: 2,     
-     atuacao: 'Ciências Biológicas',
-     eixo: 'Ambiente e Saúde',
-     nome:'Ciências Biológicas',
-     nivel: 'Licenciatura',
+     meta: 'teste',
+     atividade:'teste',
+     prazo: 'teste',
+     responsavel: 'teste',
+     
    },
    
   ]);
   
   return(
    <Container>
-      <Header title={'Cursos'}></Header>
+      <Header title={'Metas'}></Header>
       <Body>
      <CustomButton text={'Novo'} color={'#2f9e41'} onPress={handleButtonPress}/>
     
 
       <DataTable>
         <DataTable.Header>
-          <DataTable.Title>Grande Área de Atuação</DataTable.Title>
-          <DataTable.Title>Eixo Tecnológico</DataTable.Title>
-          <DataTable.Title>Nome</DataTable.Title>
-          <DataTable.Title>Nível</DataTable.Title>
+          <DataTable.Title>Meta</DataTable.Title>
+          <DataTable.Title>Atividade</DataTable.Title>
+          <DataTable.Title>Prazo</DataTable.Title>
+          <DataTable.Title>Responsável</DataTable.Title>
+          
                
         </DataTable.Header>
         {items.map((item) => (
         <DataTable.Row key={item.key}>
         
-          <DataTable.Cell number>{item.atuacao}</DataTable.Cell>
-          <DataTable.Cell>{item.eixo}</DataTable.Cell>
-          <DataTable.Cell>{item.nome}</DataTable.Cell>
-          <DataTable.Cell>{item.nivel}</DataTable.Cell>
+          <DataTable.Cell number>{item.meta}</DataTable.Cell>
+          <DataTable.Cell>{item.atividade}</DataTable.Cell>
+          <DataTable.Cell>{item.prazo}</DataTable.Cell>
+          <DataTable.Cell>{item.responsavel}</DataTable.Cell>
+          
         </DataTable.Row>
       ))}
       </DataTable>
     
       <CustomButton text={'Próximo'} color={'#2f9e41'}/>
-      <CustomButton text={'Voltar'} color={'#cd191e'}/>
+      <CustomButton text={'Voltar'} color={'#cd191e'} onPress={()=> navigation.navigate('Inicio')}/>
       
       </Body>
     </Container>
@@ -70,4 +74,4 @@ const Cursos = () => {
 };
 
 
-export default Cursos;
+export default Metas;

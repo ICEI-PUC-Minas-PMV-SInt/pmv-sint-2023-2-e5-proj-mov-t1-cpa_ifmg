@@ -16,12 +16,12 @@ const Proposta = () => {
   
  const[campus,setCampus]=useState([]);
   
-  useEffect(()=>{
-   getCampus().then(dados=>
-   {console.log(dados);
-   setCampus(dados);   
-   });
-  },[]);
+  // useEffect(()=>{
+  //  getCampus().then(dados=>
+  //  {console.log(dados);
+  //  setCampus(dados);   
+  //  });
+  // },[]);
 
   const campus_data = [
       {key:'1', value:'Arcos'},
@@ -53,9 +53,9 @@ const Proposta = () => {
    <Container>
       <Header title={'Nova Proposta'}></Header>
       <Body>
-      <Select text={'Campus'} data={campus} setSelected={(data) => setSelected(data)}/>
+      <Select text={'Campus'} data={campus_data} setSelected={(data) => setSelected(data)}/>
       <Select text={'Tipo'} data={tipo_data} setSelected={(data) => setSelected(data)}/>
-      <CustomButton text={'Próximo'} color={'#2f9e41'} onPress={()=> navigation.navigate('Melhoria')}/>
+      <CustomButton text={'Próximo'} color={'#2f9e41'} onPress={()=> navigation.navigate('Inicio')}/>
       <CustomButton text={'Voltar'} color={'#cd191e'}/>
       
       </Body>
