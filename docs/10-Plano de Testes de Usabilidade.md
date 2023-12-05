@@ -1,11 +1,9 @@
 # Plano de Testes de Usabilidade
 
-O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. O Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
+Para o teste de usabilidade, optou-se por utilizar o método baseada no clipe da experiência. Nesse caso, o teste foi adaptado em relação à proposta, pois o usário irá utilzar a tela que simula o sistema Android do expo-dev e irá gravar o uso por meio do computador.
 
-As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
+Para fazer o teste da aplicação, um membro da CPA foi convidado. Durante o teste, o usuário irá gravar em video o uso do aplicativo e, assim, registrar como o aplicativo se comporta e suas considerações a respeito da utilização do sistema.
 
-> **Links Úteis**:
-> - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
-> - [Teste de usabilidade: tudo o que você precisa saber! | by Jon Vieira | Aela.io | Medium](https://medium.com/aela/teste-de-usabilidade-o-que-voc%C3%AA-precisa-saber-39a36343d9a6/)
-> - [Planejando testes de usabilidade: o que (e o que não) fazer | iMasters](https://imasters.com.br/design-ux/planejando-testes-de-usabilidade-o-que-e-o-que-nao-fazer/)
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+O resultado do teste de usabilidade será registrado no documento 11.
+
+
