@@ -1,8 +1,6 @@
 # Apresentação
 
-<span style="color:red">Pré-requisitos: Todos os demais artefatos</span>
-
-Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do projeto contemplando todos os itens trabalhados nos demais artefatos.
+O projeto desenvolvido tentou solucionar problemas apresentados pela CPA do IFMG. A solução em questão abordou o problema de transmissão de informações entre CPA Local e CPA Central, conforme apresentado no vídeo do tópico a seguir.
 
 ## Avaliação Institucional IFMG
 
@@ -24,3 +22,7 @@ Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do proje
 ![10](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/cd32b44c-dd09-4824-ba7e-f2254d8dab4d)
 ![11](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/6fa2e152-9e28-4b9d-a6c1-741a4b41488e)
 ![12](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/f13d51af-b987-463c-aaf4-8c5dbb76972d)
+
+## Demonstração Curta do APP
+https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e5-proj-mov-t1-cpa_ifmg/assets/49229699/b8dbbf86-161b-4854-aa4b-be3211f1d95d
+
